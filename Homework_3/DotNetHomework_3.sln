@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetHomework_3", "Homework_3\DotNetHomework_3.csproj", "{407D1793-080A-49DC-84B4-50A8FBF2E205}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderManageSystem", "OrderManageSystem\OrderManageSystem.csproj", "{D0666270-6DFF-4175-B1E3-4E3BB4753C81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{407D1793-080A-49DC-84B4-50A8FBF2E205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{407D1793-080A-49DC-84B4-50A8FBF2E205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{407D1793-080A-49DC-84B4-50A8FBF2E205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{407D1793-080A-49DC-84B4-50A8FBF2E205}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0666270-6DFF-4175-B1E3-4E3BB4753C81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0666270-6DFF-4175-B1E3-4E3BB4753C81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0666270-6DFF-4175-B1E3-4E3BB4753C81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0666270-6DFF-4175-B1E3-4E3BB4753C81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9092CE0-A48F-49A0-B584-F861468C8539}
+	EndGlobalSection
+EndGlobal

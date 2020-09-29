@@ -1,0 +1,7 @@
+E:\学科学习资料\大三\大三上\.net架构程序设计\Homework_3\Homework_3\bin\Debug\Homework_3.exe.config
+E:\学科学习资料\大三\大三上\.net架构程序设计\Homework_3\Homework_3\bin\Debug\Homework_3.exe
+E:\学科学习资料\大三\大三上\.net架构程序设计\Homework_3\Homework_3\bin\Debug\Homework_3.pdb
+E:\学科学习资料\大三\大三上\.net架构程序设计\Homework_3\Homework_3\obj\Debug\DotNetHomework_3.csprojAssemblyReference.cache
+E:\学科学习资料\大三\大三上\.net架构程序设计\Homework_3\Homework_3\obj\Debug\DotNetHomework_3.csproj.CoreCompileInputs.cache
+E:\学科学习资料\大三\大三上\.net架构程序设计\Homework_3\Homework_3\obj\Debug\Homework_3.exe
+E:\学科学习资料\大三\大三上\.net架构程序设计\Homework_3\Homework_3\obj\Debug\Homework_3.pdb
