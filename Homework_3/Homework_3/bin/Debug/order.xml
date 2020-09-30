@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<ArrayOfOrder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Order>
+    <OrderId>002</OrderId>
+    <ProductName>2</ProductName>
+    <ProductNumbers>2</ProductNumbers>
+    <UnitPrice>2</UnitPrice>
+    <ClientName>2</ClientName>
+    <ClientPhone>2</ClientPhone>
+    <ClientAddress>2</ClientAddress>
+    <TotalPrice>4</TotalPrice>
+  </Order>
+  <Order>
+    <OrderId>003</OrderId>
+    <ProductName>3</ProductName>
+    <ProductNumbers>3</ProductNumbers>
+    <UnitPrice>3</UnitPrice>
+    <ClientName>3</ClientName>
+    <ClientPhone>3</ClientPhone>
+    <ClientAddress>3</ClientAddress>
+    <TotalPrice>9</TotalPrice>
+  </Order>
+  <Order>
+    <OrderId>001</OrderId>
+    <ProductName>1</ProductName>
+    <ProductNumbers>1</ProductNumbers>
+    <UnitPrice>1</UnitPrice>
+    <ClientName>1</ClientName>
+    <ClientPhone>1</ClientPhone>
+    <ClientAddress>1</ClientAddress>
+    <TotalPrice>1</TotalPrice>
+  </Order>
+</ArrayOfOrder>

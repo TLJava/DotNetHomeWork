@@ -24,24 +24,31 @@ namespace Homework_3
             }
             catch
             {
-                Console.WriteLine("订单添加失败");
+                Console.WriteLine("订单添加失败！");
             }
         }
-        public void RemoveOrder(int id)      //删除对应编号的订单和订单细节
+        public void RemoveOrder(String id)      //删除对应编号的订单和订单细节
         {
+            int index1 = 0;
+            int index2 = 0;
+
             try {
                 foreach (Order item in list1)//删除订单列表中的订单
                 {
-                    if (item.OrderId == id)  list1.Remove(item);
+                    if (item.OrderId == id) index1 = this.list1.IndexOf(item);
+                    //list1.Remove(item);（首个匹配项）
                 }
                 foreach(OrderDetails item in list2)//删除订单明细列表中的订单信息
                 {
-                    if (item.OrderId == id) list2.Remove(item);
+                    if (item.OrderId == id) index2 = this.list2.IndexOf(item);
+                     //list2.Remove(item);
                 }
+                this.list1.RemoveAt(index1);
+                this.list2.RemoveAt(index2);
             }
             catch
             {
-                Console.WriteLine("删除订单失败");
+                Console.WriteLine("删除订单失败！");
             }
         }
         public void UpdateOrder(Order order,OrderDetails details) //更新对应编号的订单和订单明细
@@ -54,6 +61,8 @@ namespace Homework_3
                     {
                         item.ProductName = order.ProductName;
                         item.ProductNumbers = order.ProductNumbers;
+                        item.UnitPrice = order.UnitPrice;
+                        item.TotalPrice = item.TotalPrice;
                         item.ClientName = order.ClientName;
                         item.ClientPhone = order.ClientPhone;
                         item.ClientAddress = order.ClientAddress;
@@ -86,7 +95,7 @@ namespace Homework_3
                     int max = Convert.ToInt32(Console.ReadLine());
 
                     var query1 = from s1 in list1
-                                 where s1.TotalPrice > min & s1.TotalPrice < max
+                                 where s1.TotalPrice >= min & s1.TotalPrice <= max
                                  orderby s1.TotalPrice
                                  select s1;
                     List<Order> lst1 = query1.ToList();
@@ -138,6 +147,7 @@ namespace Homework_3
                 {
                     xmls.Serialize(fs, this.list1);
                 }
+                Console.WriteLine("序列化完成！");
             }
             catch
             {
@@ -155,11 +165,12 @@ namespace Homework_3
                 {
                     List<Order> or = (List<Order>)xmls.Deserialize(fs);
                     foreach (Order item in or)
-                    {
-                        Console.WriteLine("订单号 商品名称  商品数量  客户名  电话  地址");
+                    {/*
+                        Console.WriteLine("订单号 商品名称 商品数量 单价 总价 客户名 电话 地址");
                         Console.WriteLine("{0},{1},{2},{3},{4},{5},{6}", item.OrderId, item.ProductName,
-                                item.ProductNumbers, item.ClientName, item.ClientPhone, item.ClientAddress);
-                        item.ToString();
+                                item.ProductNumbers,item.UnitPrice,item.TotalPrice, item.ClientName, item.ClientPhone, item.ClientAddress);
+                       */
+                        Console.WriteLine(item.ToString());
                     }
                 }
             }

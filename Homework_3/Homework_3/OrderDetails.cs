@@ -8,7 +8,7 @@ namespace Homework_3
 {
     class OrderDetails
     {
-        private int orderId;
+        private String orderId;
         private String productName;
         private int productNumbers;
         private String clientName;
@@ -35,7 +35,7 @@ namespace Homework_3
             set { totalPrice = productNumbers * unitPrice; }
         }
         public OrderDetails() { }
-        public OrderDetails(int Id, String pName, int pNum, String cName, double unitPrice, DateTime date, double tprice)
+        public OrderDetails(String Id, String pName, int pNum, String cName, double unitPrice, DateTime date, double tprice)
         {
             this.orderId = Id;
             this.productName = pName;
@@ -46,7 +46,7 @@ namespace Homework_3
             this.TotalPrice = tprice;
         }
 
-        public int OrderId
+        public String OrderId
         {
             get { return orderId; }
             set { orderId = value; }
@@ -86,7 +86,10 @@ namespace Homework_3
 
         public override string ToString()
         {
-            return base.ToString();
+            Console.WriteLine("订单号 产品名 数量 单价 总价 客户名 下单日期");
+            string str = $"{OrderId}  " + $"{ProductName}     " + $"{ProductNumbers}  " + $"{UnitPrice}  "
+                + $"{totalPrice}  "+ $"{ClientName}  " + $"{date}\n" ;
+            return str;
         }
 
     }    

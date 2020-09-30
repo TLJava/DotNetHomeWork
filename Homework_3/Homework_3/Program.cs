@@ -25,7 +25,7 @@ namespace Homework_3
                     //添加订单
                     case "1":
                         Console.WriteLine("请输入订单编号：");
-                        int orderID = Convert.ToInt32(Console.ReadLine());
+                        String orderID = Convert.ToString(Console.ReadLine());
                         bool same = false;
                         foreach(Order item in service.list1)
                         {
@@ -57,7 +57,7 @@ namespace Homework_3
                             Console.WriteLine("请输入下单日期(yyyy-mm-dd)：");
                             DateTime date = Convert.ToDateTime(Console.ReadLine());
                             double totalPrice = productNum * unitprice;
-                            Order order1 = new Order(orderID, productName, productNum, clientName, clientPhone, clientaddress);
+                            Order order1 = new Order(orderID, productName, productNum,unitprice,totalPrice, clientName, clientPhone, clientaddress);
                             OrderDetails orderDetails1 = new OrderDetails(orderID, productName, productNum, clientName, unitprice, date, totalPrice);
                             if (order1.Equals(order1) && orderDetails1.Equals(orderDetails1))
                             {
@@ -71,13 +71,13 @@ namespace Homework_3
                     //删除对应编号订单
                     case "2":
                         Console.WriteLine("请输入订单编号：");
-                        int id = Convert.ToInt32(Console.ReadLine());
+                        String id = Convert.ToString(Console.ReadLine());
                         service.RemoveOrder(id);
                         break;
                     //修改订单信息
                     case "3":
                         Console.WriteLine("请输入订单编号：");
-                        int orderID1 = Convert.ToInt32(Console.ReadLine());
+                        String orderID1 = Convert.ToString(Console.ReadLine());
                         //判断是否存在该订单号
                         if (service.list1.Exists(o => o.OrderId == orderID1))
                         {//list1 != null && list1.Any(p => p.OrderId == orderID1
@@ -93,10 +93,10 @@ namespace Homework_3
                             String clientPhone1 = Console.ReadLine();
                             Console.WriteLine("请输入顾客地址：");
                             String clientaddress1 = Console.ReadLine();
-                            Console.WriteLine("请输入下单日期：");
+                            Console.WriteLine("请输入下单日期(yyyy-mm-dd)：");
                             DateTime date1 = Convert.ToDateTime(Console.ReadLine());
                             double totalPrice1 = productNum1 * unitprice1;
-                            Order order2 = new Order(orderID1, productName1, productNum1, clientName1, clientPhone1, clientaddress1);
+                            Order order2 = new Order(orderID1, productName1, productNum1,unitprice1,totalPrice1, clientName1, clientPhone1, clientaddress1);
                             OrderDetails orderDetails2 = new OrderDetails(orderID1, productName1, productNum1, clientName1, unitprice1, date1, totalPrice1);
                             service.UpdateOrder(order2, orderDetails2);
                         }
@@ -108,27 +108,6 @@ namespace Homework_3
                         Console.WriteLine("1.指定金额范围内订单；2.指定顾客订单；3.指定产品订单；");
                         int num = Convert.ToInt32(Console.ReadLine());
                         service.SearchOrder(num);
-                        /*
-                        switch (num)
-                        {
-                            //指定金额范围内订单
-                            case 1:
-                                //service.SearchOrder(1);
-                                break;
-                            //指定顾客订单
-                            case 2:
-
-                                break;
-                            //指定产品订单
-                            case 3:
-
-                                break;
-
-                            default:
-                                Console.WriteLine("输入错误 ！");
-                                break;
-
-                        }*/
                         break;
                     //显示所有订单
                     case "5":
@@ -150,6 +129,7 @@ namespace Homework_3
                         break;
                     //订单列表反序列化
                     case "8":
+                        Console.WriteLine("反序列化结果 ：");
                         service.Import(); 
                         break;
                     //退出程序

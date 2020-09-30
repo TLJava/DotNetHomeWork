@@ -9,7 +9,7 @@ namespace Homework_3
     public class Order:IComparable
     {
         //private int orderNumber;
-        public int OrderId { get; set; } 
+        public String OrderId { get; set; } 
         public String ProductName { get; set; }
         public int ProductNumbers { get; set; }
         public double UnitPrice { get; set; }
@@ -23,11 +23,13 @@ namespace Homework_3
         }
         public Order() { }
 
-        public Order(int Id,String pName,int pNum,String cName,String cPhone,String caddress)
+        public Order(String Id,String pName,int pNum,double unitPrice,double tPrice,String cName,String cPhone,String caddress)
         {
             this.OrderId = Id;
             this.ProductName = pName;
             this.ProductNumbers = pNum;
+            this.UnitPrice = unitPrice;
+            this.totalPrice = tPrice;
             this.ClientName = cName;
             this.ClientPhone = cPhone;
             this.ClientAddress = caddress;
@@ -59,16 +61,11 @@ namespace Homework_3
 
         //打印订单
         public override string ToString()
-        {/*
-            Console.WriteLine("订单号 产品名 数量 单价 总价 客户名 客户电话 地址");
-            
-            foreach(Order o in service.list1)
-            {
-                Console.WriteLine("{0},{1},{2},{3},{4},{5},{6},{7}",o.OrderId,o.ProductName,
-                        o.ProductNumbers,o.UnitPrice,o.TotalPrice,o.ClientName,o.ClientPhone,o.ClientAddress);
-            }
-           */ 
-            return base.ToString();
+        {
+            Console.WriteLine("订单号 产品名 数量 单价 总价 客户名  客户电话     地址");
+            string str = $"{OrderId}   " + $"{ProductName}    " + $"{ProductNumbers}   " + $"{UnitPrice}  " 
+                + $"{totalPrice}  "+ $"{ClientName}  " + $"{ClientPhone}  " + $"{ClientAddress}\n";
+            return str;
         }
     }
 }
