@@ -1,0 +1,10 @@
+E:\学科学习资料\大三\大三上\.net架构程序设计\Homework_4\CaleyTree\bin\Debug\CaleyTree.exe.config
+E:\学科学习资料\大三\大三上\.net架构程序设计\Homework_4\CaleyTree\bin\Debug\CaleyTree.exe
+E:\学科学习资料\大三\大三上\.net架构程序设计\Homework_4\CaleyTree\bin\Debug\CaleyTree.pdb
+E:\学科学习资料\大三\大三上\.net架构程序设计\Homework_4\CaleyTree\obj\Debug\CaleyTree.csprojAssemblyReference.cache
+E:\学科学习资料\大三\大三上\.net架构程序设计\Homework_4\CaleyTree\obj\Debug\CaleyTree.Form1.resources
+E:\学科学习资料\大三\大三上\.net架构程序设计\Homework_4\CaleyTree\obj\Debug\CaleyTree.Properties.Resources.resources
+E:\学科学习资料\大三\大三上\.net架构程序设计\Homework_4\CaleyTree\obj\Debug\CaleyTree.csproj.GenerateResource.cache
+E:\学科学习资料\大三\大三上\.net架构程序设计\Homework_4\CaleyTree\obj\Debug\CaleyTree.csproj.CoreCompileInputs.cache
+E:\学科学习资料\大三\大三上\.net架构程序设计\Homework_4\CaleyTree\obj\Debug\CaleyTree.exe
+E:\学科学习资料\大三\大三上\.net架构程序设计\Homework_4\CaleyTree\obj\Debug\CaleyTree.pdb
