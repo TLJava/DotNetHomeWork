@@ -45,16 +45,46 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="FrmOrderManageSystem.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="FrmOrderManageSystem.Designer.cs">
+      <DependentUpon>FrmOrderManageSystem.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmAddOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAddOrder.Designer.cs">
+      <DependentUpon>FrmAddOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmRemoveOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmRemoveOrder.Designer.cs">
+      <DependentUpon>FrmRemoveOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUpdateOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUpdateOrder.Designer.cs">
+      <DependentUpon>FrmUpdateOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Orderclass.cs" />
+    <Compile Include="OrderDetails.cs" />
+    <Compile Include="OrderService.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="FrmOrderManageSystem.resx">
+      <DependentUpon>FrmOrderManageSystem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAddOrder.resx">
+      <DependentUpon>FrmAddOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmRemoveOrder.resx">
+      <DependentUpon>FrmRemoveOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUpdateOrder.resx">
+      <DependentUpon>FrmUpdateOrder.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -65,6 +95,7 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <None Include="Properties\DataSources\Homework_3.OrderService.datasource" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -77,6 +108,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

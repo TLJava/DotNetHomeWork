@@ -10,7 +10,7 @@ using System.Xml.Serialization;
 namespace Homework_3
 {
     [Serializable]
-    class OrderService
+    public class OrderService
     {
         public List<Order> list1= new List<Order>();  //存储订单
         public List<OrderDetails> list2 = new List<OrderDetails>();  //存储订单明细

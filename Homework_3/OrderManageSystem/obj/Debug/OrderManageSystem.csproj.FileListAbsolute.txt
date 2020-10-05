@@ -8,3 +8,6 @@ E:\学科学习资料\大三\大三上\.net架构程序设计\Homework_3\OrderMa
 E:\学科学习资料\大三\大三上\.net架构程序设计\Homework_3\OrderManageSystem\obj\Debug\OrderManageSystem.csproj.CoreCompileInputs.cache
 E:\学科学习资料\大三\大三上\.net架构程序设计\Homework_3\OrderManageSystem\obj\Debug\OrderManageSystem.exe
 E:\学科学习资料\大三\大三上\.net架构程序设计\Homework_3\OrderManageSystem\obj\Debug\OrderManageSystem.pdb
+E:\学科学习资料\大三\大三上\.net架构程序设计\Homework_3\OrderManageSystem\obj\Debug\OrderManageSystem.FrmAddOrder.resources
+E:\学科学习资料\大三\大三上\.net架构程序设计\Homework_3\OrderManageSystem\obj\Debug\OrderManageSystem.FrmRemoveOrder.resources
+E:\学科学习资料\大三\大三上\.net架构程序设计\Homework_3\OrderManageSystem\obj\Debug\OrderManageSystem.FrmUpdateOrder.resources
