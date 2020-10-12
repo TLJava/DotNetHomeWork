@@ -1,0 +1,229 @@
+﻿
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>阿里小黑板 新闻详情</title>
+    <meta name="data-spm" content="a210m">
+    <!-- S GLOBAL CSS -->
+<link rel="stylesheet" href="//g.alicdn.com/tb/global/3.5.34/global-min.css">
+<!-- S GLOBAL CSS -->
+    <!-- S GLOBAL JS -->
+<script src="//g.alicdn.com/??kissy/k/1.4.7/seed-min.js,tb/global/3.5.34/global-min.js"></script>
+<!-- E GLOBAL JS -->
+    <link rel="shortcut icon" href="//gtms03.alicdn.com/tps/i3/TB13bWkGXXXXXcHXXXXjznUFXXX-16-16.ico" type="image/x-icon" />
+    <script src="//g.alicdn.com/kissy/k/1.4.7/import-style-min.js"></script>
+    <script src="//g.alicdn.com/??tb/blackboard/0.0.5/deps.js"></script>
+    <script src="//g.alicdn.com/??tb/blackboard/0.0.5/config.js"></script>
+    <script>rain = {};rain.tag = "20141204";rain.appId=5301;</script>
+    <link rel="stylesheet" href="//g.alicdn.com/tb/rainbow/bbs3/css/bbs.css" />
+    <script src="//g.alicdn.com/tb/rainbow/bbs3/js/global-min.js"></script>
+    <script>
+        XCake.config({
+            name: 'blackboard',
+            base: '//g.alicdn.com/tb/blackboard/0.0.5/',
+            combine: false
+        });
+    </script>
+    <script>KISSY.use('blackboard/p/detail/');</script>
+    <script>KISSY.importStyle('blackboard/p/detail/');</script>
+</head>
+<body data-spm="7696189"><script>
+with(document)with(body)with(insertBefore(createElement("script"),firstChild))setAttribute("exparams","category=&userid=&aplus&yunid=&&trid=0b521d4f16024019277605883e06e6&asid=AQAAAACHtoJf+5DcNQAAAADCj/BVnPHLIA==",id="tb-beacon-aplus",src=(location>"https"?"//g":"//g")+".alicdn.com/alilog/mlog/aplus_v2.js")
+</script>
+
+<!-- S GLOBAL HTML -->
+<div id="J_SiteNav" class="site-nav">
+  <div id="J_SiteNavBd" class="site-nav-bd">
+    <ul id="J_SiteNavBdL" class="site-nav-bd-l"></ul>
+    <ul id="J_SiteNavBdR" class="site-nav-bd-r"></ul>
+  </div>
+</div>
+<!-- -->
+<!-- 全网顶通 -->
+<!-- E GLOBAL HTML   -->
+<script>TB.Global.init();</script>
+<div class="container">
+    <div id="home_nav">
+        <div class="logo"></div>
+        <div class="nav">
+            <ul>
+                <li><a href="/">首页</a></li>|
+                <li><a class="active" href="/list.html?topicId=12401&order=1&size=15">新闻</a></li>|
+                <li><a href="http://www.alibabagroup.com/cn/news/library">资料馆</a></li>
+                            </ul>
+        </div>
+    </div>
+    <input id="J_token" type="hidden" name="_tb_token_" init="detail,post" itemId="9296403" value="7797b8d8538e1" />
+        <div class="detail-container">
+                <div id="main_news">
+            <h1>95公益周阿里、腾讯等六家公司同台联合做公益</h1>
+            <p class="small_tag"><span>来源：</span>
+            <a href="http://www.appbw.com/news/articles-4434.html" target="_blank">公益中国网 &nbsp;</a>
+            &nbsp;&nbsp;&nbsp;2019-09-05 18:19 &nbsp;&nbsp;&nbsp;&nbsp; <span class="J_Share" style="color:#F22E00;cursor: pointer;">分享</span></p>
+                        <div  class="img_wrap" style="text-align: center;">
+                <img src="//img.alicdn.com/imgextra/i2/3848299958/O1CN018dygTG2NQoa0oZRIQ_!!0-martrix_bbs.jpg">
+                                            </div>
+            
+            <div class="text_wrap">
+                <div>公益面前没有竞争，“我们要联合做公益”。9月5日，第三届阿里巴巴95公益周线下论坛在杭州举行，阿里巴巴、新浪微博、腾讯、字节跳动、小米、轻松筹等六大互联网公司同台，探讨打破公益疆界、推进公益融合话题。</div><div><br></div><div><img class="" src="http://www.appbw.com/file/upload/201909/05/153123894.jpg" border="0" alt="图片1" title="点击打开原图" width="550" height="366" data-mce-src="http://www.appbw.com/file/upload/201909/05/153123894.jpg"><br><br>第三届阿里巴巴95公益周论坛现场，六大互联网公益同台谈公益</div><div><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </div><div>这是六家公司第一次集体同台畅谈互联网公益创新，或将成为互联网公益融合发展的一个新起点。</div><div>&nbsp; &nbsp; &nbsp;</div><div>论坛上，阿里巴巴携手中央网信办、生态环保部、团中央、中国美院等相关部门及多家互联网公司联合发起人人公益倡议，号召全社会开放、透明、共享、联合做公益，共同带动人人参与。</div><div><br></div><div><img class="" src="http://www.appbw.com/file/upload/201909/05/153138964.jpg" border="0" alt="图片2" title="点击打开原图" width="550" height="366" data-mce-src="http://www.appbw.com/file/upload/201909/05/153138964.jpg"><br><br>第三届阿里巴巴95公益周发起人人公益倡议</div><div>&nbsp; &nbsp;&nbsp;</div><div>今年95公益周，阿里巴巴用一个字表达了主题——“融”。</div><div>&nbsp; &nbsp; &nbsp;</div><div> “一个人做很多不是公益，很多人做一点点，才是真正的公益。95公益周就是希望创造更多的公益交流机会，搭建创新公益的平台，让公益真正成为社会公众普遍接受的新生活方式。”阿里巴巴合伙人、阿里巴巴集团党委书记邵晓锋在致辞中说。</div><div><br></div><div><img class="" src="http://www.appbw.com/file/upload/201909/05/153158274.jpg" border="0" alt="图片3" title="点击打开原图" width="550" height="366" data-mce-src="http://www.appbw.com/file/upload/201909/05/153158274.jpg"><br><br>阿里巴巴合伙人、阿里巴巴集团党委书记邵晓锋</div><div><br>在圆桌论坛上，围绕公益如何跨界、公益的竞争与融合、互联网应该如何带动人人公益等话题，新浪微博高级副总裁曹增辉、轻松筹首席战略官王政、腾讯慈善公益基金会执行秘书长窦瑞刚、字节跳动公益总监张木兰、小米公益基金会副秘书长刁美玲，以及阿里巴巴合伙人、蚂蚁金服支付宝事业群总裁倪行军展开了深入的探讨。</div><div>&nbsp; &nbsp;</div><div>新浪微博高级副总裁曹增辉在分享中说：“作为公益平台的运营方，感受很深的是越来越多的普通人愿意参与公益，同时愿意把自己的公益行为分享出来，这是非常好的现象，我希望微博和其他平台一起在公益上发挥更多作用，让普通人参与公益的价值更好地发挥出来。”</div><div><br></div><div><img class="" src="http://www.appbw.com/file/upload/201909/05/153221784.jpg" border="0" alt="图片4" title="点击打开原图" width="550" height="366" data-mce-src="http://www.appbw.com/file/upload/201909/05/153221784.jpg"><br><br>新浪微博高级副总裁曹增辉</div><div>&nbsp; &nbsp; &nbsp; &nbsp;</div><div>腾讯公益慈善基金会执行秘书长窦瑞刚分享了他对互联网公益融汇的理解，“融的关键在于消融，做到无我,即放下组织本位，消融机构壁垒，一起做生态共建者，努力追求我将无我、不负公益。汇的核心是汇聚，汇聚亿万网友爱心，聚微爱为浩瀚，做人人公益的创连者。”</div><div><br></div><div><img class="" src="http://www.appbw.com/file/upload/201909/05/153236674.jpg" border="0" alt="图片5" title="点击打开原图" width="550" height="366" data-mce-src="http://www.appbw.com/file/upload/201909/05/153236674.jpg"><br><br>腾讯慈善公益基金会执行秘书长窦瑞刚</div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;</div><div>轻松筹首席战略官王政说，在公益上各家公司应该开放平台、资源：“开放互联，尽量开放我们所有的平台、所有的资源，我们在互联网公益平台里也做了一些自律公约，所有的公益项目在平台上都可以互联互通，公益不是你的我的，是社会的。”</div><div>&nbsp; &nbsp; &nbsp;&nbsp;</div><div>“互联网公益因为具有互联网的基因，在融合这件事上最有优势。我理解人人参与，首先是人人都想参与，然后是人人能够参与进来。” 阿里巴巴合伙人、支付宝事业群总裁倪行军说，“依靠互联网技术，我们需要解决的，是通过开发互联网公益产品，降低公众参与的门槛，解决想参与、而且能参与进来的问题。”</div><div><br></div><div><img class="" src="http://www.appbw.com/file/upload/201909/05/153259274.jpg" border="0" alt="图片6" title="点击打开原图" width="550" height="367" data-mce-src="http://www.appbw.com/file/upload/201909/05/153259274.jpg"><br><br>阿里巴巴合伙人、蚂蚁金服支付宝事业群总裁倪行军</div><div>&nbsp; &nbsp; &nbsp;</div><div>倪行军介绍，3年前，阿里巴巴开发了“团圆”系统，打通了包括新浪微博、腾讯QQ、今日头条等在内的25个平台，25个爱心平台一键推送失踪儿童信息，快速提升失踪儿童找回率，目前儿童失踪找回率达到98%，这正是融合的力量。“从团圆系统的开发、运营效果来看，公益要想做到效果最大化，必须打破疆界，聚力发力。”</div><div>&nbsp; &nbsp;</div><div>论坛现场发起了人人公益倡议，倡议在公益面前开放、透明、共享，突破传统边界、推动技术创新，以互联网的方式传递公益理念，让公益成为人人关注的公共议题。</div><div><br></div><div><img class="" src="http://www.appbw.com/file/upload/201909/05/153323204.jpg" border="0" alt="图片7" title="点击打开原图" width="550" height="367" data-mce-src="http://www.appbw.com/file/upload/201909/05/153323204.jpg"><br><br>团中央青年志愿者行动指导中心党委书记张朝晖主旨发言</div><div><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </div><div>阿里巴巴合伙人、阿里巴巴公益基金会理事长孙利军说，再过5天阿里巴巴就将迎来20岁生日。“从1999年创建至今，阿里经历了许多内部和外部的变化，但是公益作为这家企业最重要的基石文化，始终如一。阿里成长在最好的时代，我们不仅见证了中国经济社会的飞速发展，而且有幸作为时代浪潮中的一份子，从湖畔花园的一家小公司成长为今天的阿里巴巴数字经济体。”孙利军说，“我们要联合做公益，互联网发展受益于中国社会，我们有责任联合运用科技力量解决社会问题，推动中国公益事业更好发展。”</div><div><br></div><div><img class="" src="http://www.appbw.com/file/upload/201909/05/153339644.jpg" border="0" alt="图片8" title="点击打开原图" width="550" height="366" data-mce-src="http://www.appbw.com/file/upload/201909/05/153339644.jpg"><br><br>阿里巴巴合伙人、阿里巴巴公益基金会理事长孙利军</div><div>&nbsp; &nbsp; &nbsp;</div><div>今年阿里巴巴95公益周线上会场已与新浪微博人人公益节融合、联动，开创了公益无界新玩法，网友在微博为支持的公益项目捐出爱心积分后，会随机获得95公益周线上会场超能卡，用于淘宝平台公益项目捐赠。</div><div>&nbsp; &nbsp;</div><div>事实上，这不是各大互联网公司第一次携手做公益。早在2015年，马云、马化腾等多位企业家、公益人士就联合发起成立了“桃花源生态保护基金会”，共同推动治理污染和环境保护。</div><div>&nbsp; &nbsp; &nbsp;</div><div>2017年9月5日，阿里巴巴联合多家公益机构和企业，创新开启首届“95公益周”，并向社会发起“人人3小时”的公益倡议，推出了面向全社会的3小时公益平台，95公益周也成为了一年一度的“公益双11”。</div><div>&nbsp;&nbsp;</div><div>如今，3小时公益平台注册用户已超过4000万，入驻公益机构超过1500家，参与各类公益行动人次超过2000万次，3小时公益平台成为了公益人共同的家园。</div><div>&nbsp; &nbsp; &nbsp;</div><div>今年95公益周全面升级，带来更加丰富的线上线下活动，线上推出40多种创新参与公益方式，线下全国500余家志愿服务组织在130多个城市共同打造线下“公益双11”，推动公益行业融合创新。</div><div>&nbsp; &nbsp;</div><div>9月5日当天，阿里巴巴还分别举办以科技、可持续生活为主题的论坛，探讨用融合的力量推进科技公益和可持续生活理念。</div>            </div>
+            <div class="art_tag">
+                            </div>
+        </div>
+        
+
+                                                                
+                                                                                                                                                                                                                
+    </div>
+    <div id="global_sidebar">
+            <div class="hot_article">
+                <h1>热门文章</h1>
+                <a class="more" href="/list.html?topicId=12401">更多</a>
+                <p class="one_line">&nbsp;</p>
+                <ul>
+                                                        </ul>
+            </div>
+
+            <div class="hot_media">
+                <h1>媒体店铺</h1>
+                <p class="one_line">&nbsp;</p>
+                <ul>
+                    <li> <a href="http://shop106093814.taobao.com/"><img src="https://img.alicdn.com/imgextra/i3/2143255924/TB2DAbwcVXXXXaPXXXXXXXXXXXX_!!2143255924-0-martrix_bbs.jpg"></a> </li>  <li> <a href="http://shop116696790.taobao.com/"><img src="https://img.alicdn.com/imgextra/i1/2143255924/TB2b6LqcVXXXXcwXXXXXXXXXXXX_!!2143255924-0-martrix_bbs.jpg"></a> </li>  <li> <a href="http://shop110657108.taobao.com/"><img src="https://img.alicdn.com/imgextra/i4/2143255924/TB2Gn6BcVXXXXXnXXXXXXXXXXXX_!!2143255924-0-martrix_bbs.jpg"></a> </li>
+                </ul>
+            </div>
+        </div>
+</div>
+
+<script>KISSY.use('blackboard/p/common/, dom, event, blackboard/p/detail/',function(S,Common, DOM, Event){
+
+
+    Event.on('.J_Share', 'click', function(e) {
+        e.preventDefault();
+        S.use('tbc/share/1.0.0/', function(S, Share) {
+            Share.init({
+                type : 'webpage',
+                key : 'http://press.taobao.com',
+                client_id : '182320'
+            });
+        });
+    });
+});
+
+
+</script>
+<style>
+  .footer_2014{
+    width: 1190px;
+    margin: 0 auto;
+  }
+  .w990 .footer_2014{
+    width: 990px;
+  }
+
+</style>
+<div class="footer_2014">
+<style>
+.footer{position:relative;margin:0 auto;padding:7px 0 9px;border-top:1px solid #ddd}.footer .footer-bd p,.footer .footer-hd p{padding-bottom:8px;overflow:hidden;*zoom:1}.footer .footer-bd a,.footer .footer-hd a{display:inline;float:left;margin:0 4px;white-space:nowrap;color:#6c6c6c}.footer .footer-bd a:hover,.footer .footer-hd a:hover{color:#f40;text-decoration:none}.footer .footer-bd b,.footer .footer-hd b{display:inline;float:left;margin:0 3px;font-weight:400;color:#ddd}.footer .footer-bd em,.footer .footer-bd span,.footer .footer-hd em,.footer .footer-hd span{display:inline;float:left;white-space:nowrap;color:#9c9c9c}.footer .footer-bd em,.footer .footer-hd em{margin-left:30px}.footer .footer-bd span,.footer .footer-hd span{margin:0 4px}.footer .footer-bd span a,.footer .footer-hd span a{float:none}.footer .footer-hd p{margin-bottom:8px;line-height:27px;border-bottom:1px solid #ddd}.footer .foot-ft{display:none}
+</style><div class="footer" data-spm="1997523009">
+  <div class="footer-hd">
+    <p>
+      <a href="http://www.alibabagroup.com/cn/global/home">阿里巴巴集团</a>
+      <b>|</b>
+      <a href="//www.taobao.com">淘宝网</a>
+      <b>|</b>
+      <a href="//www.tmall.com">天猫</a>
+      <b>|</b>
+      <a href="//ju.taobao.com">聚划算</a>
+      <b>|</b>
+      <a href="http://www.aliexpress.com">全球速卖通</a>
+      <b>|</b>
+      <a href="http://www.alibaba.com/">阿里巴巴国际交易市场</a>
+      <b>|</b>
+      <a href="http://www.1688.com">1688</a>
+      <b>|</b>
+      <a href="http://www.alimama.com">阿里妈妈</a>
+      <b>|</b>
+      <a href="//www.alitrip.com">阿里旅行 · 去啊</a>
+      <b>|</b>
+      <a href="http://www.aliyun.com">阿里云计算</a>
+      <b>|</b>
+      <a href="http://www.yunos.com">YunOS</a>
+      <b>|</b>
+      <a href="http://www.aliqin.cn/">阿里通信</a>
+      <b>|</b>
+      <a href="http://www.etao.com/">一淘</a>
+      <b>|</b>
+      <a href="http://www.net.cn">万网</a>
+      <b>|</b>
+      <a href="http://www.autonavi.com/">高德</a>
+      <b>|</b>
+      <a href="http://www.uc.cn/">UC</a>
+      <b>|</b>
+      <a href="http://www.umeng.com/">友盟</a>
+      <br>
+      <a href="http://www.xiami.com">虾米</a>
+      <b>|</b>
+      <a href="http://www.ttpod.com/">天天动听</a>
+      <b>|</b>
+      <a href="http://www.laiwang.com/">来往</a>
+      <b>|</b>
+      <a href="http://www.dingtalk.com/?lwfrom=20150130160830727">钉钉</a>
+      <b>|</b>
+      <a href="https://www.alipay.com">支付宝</a>
+    </p>
+  </div>
+  <div class="footer-bd">
+    <p>
+      <a href="//www.taobao.com/about">关于淘宝</a>
+      <a href="//www.taobao.com/about/partners.php">合作伙伴</a>
+      <a href="//pro.taobao.com">营销中心</a>
+      <a href="http://jubao.alibaba.com" >廉正举报</a>
+      <a href="//service.taobao.com/support/main/service_route.htm">联系客服</a>
+      <a href="//open.taobao.com">开放平台</a>
+      <a href="//www.taobao.com/about/join.php">诚征英才</a>
+      <a href="//www.taobao.com/about/contact.php">联系我们</a>
+      <a href="//www.taobao.com/sitemap.php">网站地图</a>
+      <a href="//www.taobao.com/go/chn/tb-fp/2014/law.php">法律声明</a>
+      <em>&copy; 2003-2016 Taobao.com 版权所有</em>
+    </p>
+    <p>
+      <span>网络文化经营许可证：<a href="//img.alicdn.com/tps/i2/TB1YFcPLpXXXXaiXFXXcaDpFFXX-803-473.png">浙网文[2013]0268-027号</a></span>
+      <b>|</b>
+      <span data-spm-protocol="i">增值电信业务经营许可证：<a href="http://zcainfo.miitbeian.gov.cn/state/outPortal/loginPortal.action">浙B2-20080224-1</a></span>
+      <b>|</b>
+      <span>信息网络传播视听节目许可证：1109364号</span>
+      <b>|</b>
+      <span> 互联网违法和不良信息举报电话:0571-81683755 blxx@list.alibaba-inc.com </span>
+    </p>
+  </div>
+  <div class="footer-ft">
+    
+            <a href="http://www.pingpinganan.gov.cn/" class="mod " >
+                <img width="36" alt="杭州网警" height="36" src="//img.alicdn.com/tps/i1/T1FeW3XXNfXXXXXXXX-36-36.gif">
+              </a>
+            <a href="http://idinfo.zjaic.gov.cn/bscx.do?spm=1.7274553.1997523009.28.alN7ce&method=hddoc&id=33018400000067" class="mod mod-a" >
+              </a>
+            <a href="http://idinfo.zjaic.gov.cn/bscx.do?spm=1.7274553.1997523009.29.alN7ce&method=hddoc&id=33018400000067" class="mod mod-b" >
+              </a>
+            <a href="http://www.theclimategroup.org.cn/about/friend?spm=1.7274553.1997523009.30.alN7ce" class="mod mod-c" >
+              </a>
+            <a href="https://ss.knet.cn/verifyseal.dll?spm=1.7274553.1997523009.31.alN7ce&&sn=2010062300100001357&pa=20100701" class="mod mod-d" >
+              </a>
+            <a href="http://www.ppaaol.com/verifySite.do?spm=1.7274553.1997523009.32.alN7ce&id=1051" class="mod mod-e" >
+              </a>
+            <a href="http://www.12377.cn/" class="mod mod-f" >
+              </a>
+            <a href="http://www.12377.cn/node_548446.htm" class="mod mod-h" >
+              </a>
+            <a href="http://sq.ccm.gov.cn/ccnt/sczr/service/business/emark/toDetail/2E7819FC84674D5980464916C24B7E3E" class="mod mod-g" >
+              </a>
+          
+  </div>
+</div></div>
+<script src="//g.alicdn.com/mtb/videox/0.1.33/videox-pc.js"></script>
+<script src="//g.alicdn.com/kg/tbvideo-replace/0.0.21/index-min.js"></script>
+<script> window.embedReplace.replaceAll(); </script>
+</body>
+</html>

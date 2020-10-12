@@ -1,0 +1,10 @@
+C:\Users\pc\Desktop\Homework_5\FrmCrawler\obj\Debug\FrmCrawler.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\Homework_5\FrmCrawler\obj\Debug\FrmCrawler.frmCrawler.resources
+C:\Users\pc\Desktop\Homework_5\FrmCrawler\obj\Debug\FrmCrawler.Properties.Resources.resources
+C:\Users\pc\Desktop\Homework_5\FrmCrawler\obj\Debug\FrmCrawler.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Homework_5\FrmCrawler\obj\Debug\FrmCrawler.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Homework_5\FrmCrawler\bin\Debug\FrmCrawler.exe.config
+C:\Users\pc\Desktop\Homework_5\FrmCrawler\bin\Debug\FrmCrawler.exe
+C:\Users\pc\Desktop\Homework_5\FrmCrawler\bin\Debug\FrmCrawler.pdb
+C:\Users\pc\Desktop\Homework_5\FrmCrawler\obj\Debug\FrmCrawler.exe
+C:\Users\pc\Desktop\Homework_5\FrmCrawler\obj\Debug\FrmCrawler.pdb

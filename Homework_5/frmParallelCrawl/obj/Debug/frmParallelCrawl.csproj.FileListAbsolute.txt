@@ -1,0 +1,10 @@
+C:\Users\pc\Desktop\Homework_5\frmParallelCrawl\bin\Debug\frmParallelCrawl.exe.config
+C:\Users\pc\Desktop\Homework_5\frmParallelCrawl\bin\Debug\frmParallelCrawl.exe
+C:\Users\pc\Desktop\Homework_5\frmParallelCrawl\bin\Debug\frmParallelCrawl.pdb
+C:\Users\pc\Desktop\Homework_5\frmParallelCrawl\obj\Debug\frmParallelCrawl.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\Homework_5\frmParallelCrawl\obj\Debug\frmParallelCrawl.frmParallelCrawl.resources
+C:\Users\pc\Desktop\Homework_5\frmParallelCrawl\obj\Debug\frmParallelCrawl.Properties.Resources.resources
+C:\Users\pc\Desktop\Homework_5\frmParallelCrawl\obj\Debug\frmParallelCrawl.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Homework_5\frmParallelCrawl\obj\Debug\frmParallelCrawl.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Homework_5\frmParallelCrawl\obj\Debug\frmParallelCrawl.exe
+C:\Users\pc\Desktop\Homework_5\frmParallelCrawl\obj\Debug\frmParallelCrawl.pdb

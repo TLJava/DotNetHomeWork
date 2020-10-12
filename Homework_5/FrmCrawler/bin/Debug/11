@@ -1,0 +1,229 @@
+﻿
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>阿里小黑板 新闻详情</title>
+    <meta name="data-spm" content="a210m">
+    <!-- S GLOBAL CSS -->
+<link rel="stylesheet" href="//g.alicdn.com/tb/global/3.5.34/global-min.css">
+<!-- S GLOBAL CSS -->
+    <!-- S GLOBAL JS -->
+<script src="//g.alicdn.com/??kissy/k/1.4.7/seed-min.js,tb/global/3.5.34/global-min.js"></script>
+<!-- E GLOBAL JS -->
+    <link rel="shortcut icon" href="//gtms03.alicdn.com/tps/i3/TB13bWkGXXXXXcHXXXXjznUFXXX-16-16.ico" type="image/x-icon" />
+    <script src="//g.alicdn.com/kissy/k/1.4.7/import-style-min.js"></script>
+    <script src="//g.alicdn.com/??tb/blackboard/0.0.5/deps.js"></script>
+    <script src="//g.alicdn.com/??tb/blackboard/0.0.5/config.js"></script>
+    <script>rain = {};rain.tag = "20141204";rain.appId=5301;</script>
+    <link rel="stylesheet" href="//g.alicdn.com/tb/rainbow/bbs3/css/bbs.css" />
+    <script src="//g.alicdn.com/tb/rainbow/bbs3/js/global-min.js"></script>
+    <script>
+        XCake.config({
+            name: 'blackboard',
+            base: '//g.alicdn.com/tb/blackboard/0.0.5/',
+            combine: false
+        });
+    </script>
+    <script>KISSY.use('blackboard/p/detail/');</script>
+    <script>KISSY.importStyle('blackboard/p/detail/');</script>
+</head>
+<body data-spm="7696189"><script>
+with(document)with(body)with(insertBefore(createElement("script"),firstChild))setAttribute("exparams","category=&userid=&aplus&yunid=&&trid=0b521d4f16024019340296168e06e6&asid=AQAAAACOtoJfuNeNbQAAAAD+35R2UvPByA==",id="tb-beacon-aplus",src=(location>"https"?"//g":"//g")+".alicdn.com/alilog/mlog/aplus_v2.js")
+</script>
+
+<!-- S GLOBAL HTML -->
+<div id="J_SiteNav" class="site-nav">
+  <div id="J_SiteNavBd" class="site-nav-bd">
+    <ul id="J_SiteNavBdL" class="site-nav-bd-l"></ul>
+    <ul id="J_SiteNavBdR" class="site-nav-bd-r"></ul>
+  </div>
+</div>
+<!-- -->
+<!-- 全网顶通 -->
+<!-- E GLOBAL HTML   -->
+<script>TB.Global.init();</script>
+<div class="container">
+    <div id="home_nav">
+        <div class="logo"></div>
+        <div class="nav">
+            <ul>
+                <li><a href="/">首页</a></li>|
+                <li><a class="active" href="/list.html?topicId=12401&order=1&size=15">新闻</a></li>|
+                <li><a href="http://www.alibabagroup.com/cn/news/library">资料馆</a></li>
+                            </ul>
+        </div>
+    </div>
+    <input id="J_token" type="hidden" name="_tb_token_" init="detail,post" itemId="9268706" value="7381dbfd376f7" />
+        <div class="detail-container">
+                <div id="main_news">
+            <h1>阿里88VIP权益再升级 飞猪加入阿里生活圈添新场景</h1>
+            <p class="small_tag"><span>来源：</span>
+            <a href="http://www.xinhuanet.com/tech/2019-08/08/c_1124853314.htm" target="_blank">新华网 &nbsp;</a>
+            &nbsp;&nbsp;&nbsp;2019-08-08 22:52 &nbsp;&nbsp;&nbsp;&nbsp; <span class="J_Share" style="color:#F22E00;cursor: pointer;">分享</span></p>
+                        <div  class="img_wrap" style="text-align: center;">
+                <img src="//img.alicdn.com/imgextra/i2/3848299958/O1CN01uT1T1p2NQoZeczEUp_!!2-martrix_bbs.png">
+                                            </div>
+            
+            <div class="text_wrap">
+                <p>8月8日，阿里巴巴集团宣布阿里88VIP会员权益将进一步升级，这将为阿里生态和阿里平台上的商家带来更多新增长和新机会，也将为消费者节省更多开支。</p><p>　　</p><p>根据数据估测，过去一年88VIP为每个消费者平均节省1230元，累计为全国消费者节省数十亿元。在省钱榜单中，一位江苏无锡用户夺魁，一年通过阿里&nbsp;88VIP&nbsp;节省&nbsp;5688.75&nbsp;元。而上海人最会省，通过88VIP 省下5.11&nbsp;亿元，浙江、江苏、广东、北京紧随其后。</p><p>　　</p><p>2018年8月8日，阿里巴巴集团揭晓了88VIP全员会员计划。这个纵横于阿里生态，把多重会员身份融为一体的“一卡通” 既涵盖了阿里巴巴旗下所有核心服务，也联合了阿里平台上的国内外大牌提供的一系列复合权益。</p><p>　　</p><p>今年阿里88VIP的权益将全面升级。在阿里生态内，阿里六大直营品牌包括天猫超市、天猫国际直营、淘宝心选、阿里健康、魅力惠和天猫奢品加入9.5折范围；生态会员体系的进一步扩大，在优酷、饿了么、淘票票、虾米和万豪的生态权益基础上，增加飞猪和爱康国宾权益。在阿里生态外，88VIP联动联动全球20万品牌，9.5折品牌从去年的88个增加到388个。这意味着阿里生活圈横跨了“吃、玩、听、看、买”之后，又添“游”的新场景。</p><p>　　</p><p>成为88VIP，淘气值是关键，但今年阿里也增加了新玩法。此前，在淘宝、天猫等阿里零售平台有过消费行为的用户都会自动成为88普通会员，每个会员对应不同的淘气值。淘气值满1000的超级会员，只用88元就能获得这张卡，非会员则须花费888元才能购买的“88VIP”。但今年阿里巴巴集团加大对88VIP 的投入，在8月6日—9日为每位用户补贴600元，如果你淘气值没有1000 分，用288 就能购买全年88VIP。</p><p>　　</p><p>阿里巴巴曾一再改变消费者的购物模式、内容的消费方式和本地生活形态，如今，生态会员体系阿里“一卡通”88VIP的再次升级，将为消费者生活带来又一次全新变革。</p>            </div>
+            <div class="art_tag">
+                            </div>
+        </div>
+        
+
+                                                                
+                                                                                                                                                                                                                
+    </div>
+    <div id="global_sidebar">
+            <div class="hot_article">
+                <h1>热门文章</h1>
+                <a class="more" href="/list.html?topicId=12401">更多</a>
+                <p class="one_line">&nbsp;</p>
+                <ul>
+                                                        </ul>
+            </div>
+
+            <div class="hot_media">
+                <h1>媒体店铺</h1>
+                <p class="one_line">&nbsp;</p>
+                <ul>
+                    <li> <a href="http://shop106093814.taobao.com/"><img src="https://img.alicdn.com/imgextra/i3/2143255924/TB2DAbwcVXXXXaPXXXXXXXXXXXX_!!2143255924-0-martrix_bbs.jpg"></a> </li>  <li> <a href="http://shop116696790.taobao.com/"><img src="https://img.alicdn.com/imgextra/i1/2143255924/TB2b6LqcVXXXXcwXXXXXXXXXXXX_!!2143255924-0-martrix_bbs.jpg"></a> </li>  <li> <a href="http://shop110657108.taobao.com/"><img src="https://img.alicdn.com/imgextra/i4/2143255924/TB2Gn6BcVXXXXXnXXXXXXXXXXXX_!!2143255924-0-martrix_bbs.jpg"></a> </li>
+                </ul>
+            </div>
+        </div>
+</div>
+
+<script>KISSY.use('blackboard/p/common/, dom, event, blackboard/p/detail/',function(S,Common, DOM, Event){
+
+
+    Event.on('.J_Share', 'click', function(e) {
+        e.preventDefault();
+        S.use('tbc/share/1.0.0/', function(S, Share) {
+            Share.init({
+                type : 'webpage',
+                key : 'http://press.taobao.com',
+                client_id : '182320'
+            });
+        });
+    });
+});
+
+
+</script>
+<style>
+  .footer_2014{
+    width: 1190px;
+    margin: 0 auto;
+  }
+  .w990 .footer_2014{
+    width: 990px;
+  }
+
+</style>
+<div class="footer_2014">
+<style>
+.footer{position:relative;margin:0 auto;padding:7px 0 9px;border-top:1px solid #ddd}.footer .footer-bd p,.footer .footer-hd p{padding-bottom:8px;overflow:hidden;*zoom:1}.footer .footer-bd a,.footer .footer-hd a{display:inline;float:left;margin:0 4px;white-space:nowrap;color:#6c6c6c}.footer .footer-bd a:hover,.footer .footer-hd a:hover{color:#f40;text-decoration:none}.footer .footer-bd b,.footer .footer-hd b{display:inline;float:left;margin:0 3px;font-weight:400;color:#ddd}.footer .footer-bd em,.footer .footer-bd span,.footer .footer-hd em,.footer .footer-hd span{display:inline;float:left;white-space:nowrap;color:#9c9c9c}.footer .footer-bd em,.footer .footer-hd em{margin-left:30px}.footer .footer-bd span,.footer .footer-hd span{margin:0 4px}.footer .footer-bd span a,.footer .footer-hd span a{float:none}.footer .footer-hd p{margin-bottom:8px;line-height:27px;border-bottom:1px solid #ddd}.footer .foot-ft{display:none}
+</style><div class="footer" data-spm="1997523009">
+  <div class="footer-hd">
+    <p>
+      <a href="http://www.alibabagroup.com/cn/global/home">阿里巴巴集团</a>
+      <b>|</b>
+      <a href="//www.taobao.com">淘宝网</a>
+      <b>|</b>
+      <a href="//www.tmall.com">天猫</a>
+      <b>|</b>
+      <a href="//ju.taobao.com">聚划算</a>
+      <b>|</b>
+      <a href="http://www.aliexpress.com">全球速卖通</a>
+      <b>|</b>
+      <a href="http://www.alibaba.com/">阿里巴巴国际交易市场</a>
+      <b>|</b>
+      <a href="http://www.1688.com">1688</a>
+      <b>|</b>
+      <a href="http://www.alimama.com">阿里妈妈</a>
+      <b>|</b>
+      <a href="//www.alitrip.com">阿里旅行 · 去啊</a>
+      <b>|</b>
+      <a href="http://www.aliyun.com">阿里云计算</a>
+      <b>|</b>
+      <a href="http://www.yunos.com">YunOS</a>
+      <b>|</b>
+      <a href="http://www.aliqin.cn/">阿里通信</a>
+      <b>|</b>
+      <a href="http://www.etao.com/">一淘</a>
+      <b>|</b>
+      <a href="http://www.net.cn">万网</a>
+      <b>|</b>
+      <a href="http://www.autonavi.com/">高德</a>
+      <b>|</b>
+      <a href="http://www.uc.cn/">UC</a>
+      <b>|</b>
+      <a href="http://www.umeng.com/">友盟</a>
+      <br>
+      <a href="http://www.xiami.com">虾米</a>
+      <b>|</b>
+      <a href="http://www.ttpod.com/">天天动听</a>
+      <b>|</b>
+      <a href="http://www.laiwang.com/">来往</a>
+      <b>|</b>
+      <a href="http://www.dingtalk.com/?lwfrom=20150130160830727">钉钉</a>
+      <b>|</b>
+      <a href="https://www.alipay.com">支付宝</a>
+    </p>
+  </div>
+  <div class="footer-bd">
+    <p>
+      <a href="//www.taobao.com/about">关于淘宝</a>
+      <a href="//www.taobao.com/about/partners.php">合作伙伴</a>
+      <a href="//pro.taobao.com">营销中心</a>
+      <a href="http://jubao.alibaba.com" >廉正举报</a>
+      <a href="//service.taobao.com/support/main/service_route.htm">联系客服</a>
+      <a href="//open.taobao.com">开放平台</a>
+      <a href="//www.taobao.com/about/join.php">诚征英才</a>
+      <a href="//www.taobao.com/about/contact.php">联系我们</a>
+      <a href="//www.taobao.com/sitemap.php">网站地图</a>
+      <a href="//www.taobao.com/go/chn/tb-fp/2014/law.php">法律声明</a>
+      <em>&copy; 2003-2016 Taobao.com 版权所有</em>
+    </p>
+    <p>
+      <span>网络文化经营许可证：<a href="//img.alicdn.com/tps/i2/TB1YFcPLpXXXXaiXFXXcaDpFFXX-803-473.png">浙网文[2013]0268-027号</a></span>
+      <b>|</b>
+      <span data-spm-protocol="i">增值电信业务经营许可证：<a href="http://zcainfo.miitbeian.gov.cn/state/outPortal/loginPortal.action">浙B2-20080224-1</a></span>
+      <b>|</b>
+      <span>信息网络传播视听节目许可证：1109364号</span>
+      <b>|</b>
+      <span> 互联网违法和不良信息举报电话:0571-81683755 blxx@list.alibaba-inc.com </span>
+    </p>
+  </div>
+  <div class="footer-ft">
+    
+            <a href="http://www.pingpinganan.gov.cn/" class="mod " >
+                <img width="36" alt="杭州网警" height="36" src="//img.alicdn.com/tps/i1/T1FeW3XXNfXXXXXXXX-36-36.gif">
+              </a>
+            <a href="http://idinfo.zjaic.gov.cn/bscx.do?spm=1.7274553.1997523009.28.alN7ce&method=hddoc&id=33018400000067" class="mod mod-a" >
+              </a>
+            <a href="http://idinfo.zjaic.gov.cn/bscx.do?spm=1.7274553.1997523009.29.alN7ce&method=hddoc&id=33018400000067" class="mod mod-b" >
+              </a>
+            <a href="http://www.theclimategroup.org.cn/about/friend?spm=1.7274553.1997523009.30.alN7ce" class="mod mod-c" >
+              </a>
+            <a href="https://ss.knet.cn/verifyseal.dll?spm=1.7274553.1997523009.31.alN7ce&&sn=2010062300100001357&pa=20100701" class="mod mod-d" >
+              </a>
+            <a href="http://www.ppaaol.com/verifySite.do?spm=1.7274553.1997523009.32.alN7ce&id=1051" class="mod mod-e" >
+              </a>
+            <a href="http://www.12377.cn/" class="mod mod-f" >
+              </a>
+            <a href="http://www.12377.cn/node_548446.htm" class="mod mod-h" >
+              </a>
+            <a href="http://sq.ccm.gov.cn/ccnt/sczr/service/business/emark/toDetail/2E7819FC84674D5980464916C24B7E3E" class="mod mod-g" >
+              </a>
+          
+  </div>
+</div></div>
+<script src="//g.alicdn.com/mtb/videox/0.1.33/videox-pc.js"></script>
+<script src="//g.alicdn.com/kg/tbvideo-replace/0.0.21/index-min.js"></script>
+<script> window.embedReplace.replaceAll(); </script>
+</body>
+</html>

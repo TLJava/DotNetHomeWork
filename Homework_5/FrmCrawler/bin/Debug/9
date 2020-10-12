@@ -1,0 +1,370 @@
+﻿
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>阿里小黑板 新闻列表</title>
+    <meta name="data-spm" content="a210m">
+    <!-- S GLOBAL CSS -->
+<link rel="stylesheet" href="//g.alicdn.com/tb/global/3.5.34/global-min.css">
+<!-- S GLOBAL CSS -->
+    <!-- S GLOBAL JS -->
+<script src="//g.alicdn.com/??kissy/k/1.4.7/seed-min.js,tb/global/3.5.34/global-min.js"></script>
+<!-- E GLOBAL JS -->
+    <link rel="shortcut icon" href="//gtms03.alicdn.com/tps/i3/TB13bWkGXXXXXcHXXXXjznUFXXX-16-16.ico" type="image/x-icon" />
+    <script src="//g.alicdn.com/kissy/k/1.4.7/import-style-min.js"></script>
+    <script src="//g.alicdn.com/??tb/blackboard/0.0.5/deps.js"></script>
+    <script src="//g.alicdn.com/??tb/blackboard/0.0.5/config.js"></script>
+    <base target="_blank" />
+    <script>
+        XCake.config({
+            name: 'blackboard',
+            base: '//g.alicdn.com/tb/blackboard/0.0.5/',
+            combine: false
+        });
+    </script>
+    <script>KISSY.use('blackboard/p/newslist/');</script>
+    <script>KISSY.importStyle('blackboard/p/newslist/');</script>
+    <script src="//g.alicdn.com/tb/rainbow/bbs3/js/global-min.js"></script>
+
+</head>
+<body data-spm="7696189"><script>
+with(document)with(body)with(insertBefore(createElement("script"),firstChild))setAttribute("exparams","category=&userid=&aplus&yunid=&&trid=0b521d4f16024019336666143e06e6&asid=AQAAAACNtoJfg83cEgAAAAAhaf0wBy7AbQ==",id="tb-beacon-aplus",src=(location>"https"?"//g":"//g")+".alicdn.com/alilog/mlog/aplus_v2.js")
+</script>
+
+<!-- S GLOBAL HTML -->
+<div id="J_SiteNav" class="site-nav">
+  <div id="J_SiteNavBd" class="site-nav-bd">
+    <ul id="J_SiteNavBdL" class="site-nav-bd-l"></ul>
+    <ul id="J_SiteNavBdR" class="site-nav-bd-r"></ul>
+  </div>
+</div>
+<!-- -->
+<!-- 全网顶通 -->
+<!-- E GLOBAL HTML   -->
+<script>TB.Global.init();</script>
+<div class="container">
+    <div id="home_nav">
+        <div class="logo"></div>
+        <div class="nav">
+            <ul>
+                <li><a href="/">首页</a></li>|
+                <li><a class="active" href="/list.html?topicId=12401&order=1&size=15">新闻</a></li>|
+                <li><a href="http://www.alibabagroup.com/cn/news/library">资料馆</a></li>
+                            </ul>
+        </div>
+    </div>
+    <input id="J_token" type="hidden" name="_tb_token_" value="e5ee18a10b36" />
+
+
+
+    <div id="news_list">
+        <ul>
+                        <li>
+                <img src="//img.alicdn.com/imgextra/i2/3848299958/O1CN01jGlGzB2NQoa2PTqiN_!!2-martrix_bbs.png">
+                <div class="txt_wrap">
+                    <a href="detail.html?postId=9296772">
+                        <h1>聚划算在99划算节期间推出88红包省钱卡 投入比照88VIP为买家全</h1>
+                        <p>9月6日，&ldquo;99划算节&rdquo;期间，聚划算正式发布&ldquo;88红包省钱卡&rdquo;，消费者以最低每月6.8元的价格开通88红包省钱卡后，即可获得全年优惠超千元的购物红包。除通用红包外，月卡用户还可享受部分行业的大额购物津贴。　　&ldquo;88红包省钱卡&rdquo;是继88VIP以后，阿里生态推出的又一重磅&ldquo;省钱神器&rdquo;。聚划算方面表示，88红包省钱卡有三大亮点：一、门槛低，消费者最低每月6.8元便可开通；二、覆盖广，&ldquo;88红包省钱卡&rdquo;提供的红包均为通用红包，对整个淘系生态的所有商品实现全覆盖；三、可叠加，&ldqu</p>
+                        <span>查看详细>></span>
+                        <div class="date_tag">2019-09-06 16:36</div>
+                    </a>
+                </div>
+            </li>
+                        <li>
+                <img src="//img.alicdn.com/imgextra/i2/3848299958/O1CN018dygTG2NQoa0oZRIQ_!!0-martrix_bbs.jpg">
+                <div class="txt_wrap">
+                    <a href="detail.html?postId=9296403">
+                        <h1>95公益周阿里、腾讯等六家公司同台联合做公益</h1>
+                        <p>公益面前没有竞争，&ldquo;我们要联合做公益&rdquo;。9月5日，第三届阿里巴巴95公益周线下论坛在杭州举行，阿里巴巴、新浪微博、腾讯、字节跳动、小米、轻松筹等六大互联网公司同台，探讨打破公益疆界、推进公益融合话题。第三届阿里巴巴95公益周论坛现场，六大互联网公益同台谈公益       这是六家公司第一次集体同台畅谈互联网公益创新，或将成为互联网公益融合发展的一个新起点。     论坛上，阿里巴巴携手中央网信办、生态环保部、团中央、中国美院等相关部门及多家互联网公司联合发起人人公益倡议，号召全社会开放、透明、共享、联合做公益，共同带动人人参与。第三届阿里巴巴95公益周发起人人公益倡议 </p>
+                        <span>查看详细>></span>
+                        <div class="date_tag">2019-09-05 18:19</div>
+                    </a>
+                </div>
+            </li>
+                        <li>
+                <img src="//img.alicdn.com/imgextra/i1/3848299958/O1CN01V4urWu2NQoa0xzWji_!!0-martrix_bbs.jpg">
+                <div class="txt_wrap">
+                    <a href="detail.html?postId=9296246">
+                        <h1>谁是中国最有创造力的城市？淘宝造物节数据说出了城市的秘密</h1>
+                        <p>谁是中国最有创造力的城市？在淘宝造物节前夕，一场城市之间的battle，出人意料的火了。不仅北上广，还有成都、南京、杭州等均加入，每座城市都在说着自己的&ldquo;城市创造力&rdquo;。　　9月5日，淘宝造物节发布了一份数据，有图有真相地解析了各家城市的创造力。淘宝数据显示，北京是当之无愧的文化之都；上海人最爱智能商品，是科技之都；广州则出乎意料地以二次元产业冠绝全国，杭州是时尚之都，成都是美食之都，南京是非遗之都。　　从故宫淘宝、故宫文创到故宫文具，以故宫六子为代表的文创类店铺在北京生根发芽，占据了文创消费的半壁江山。阿里数据显示，淘宝平台上北京人的文创消费增速全国第一。 600岁的故</p>
+                        <span>查看详细>></span>
+                        <div class="date_tag">2019-09-05 18:09</div>
+                    </a>
+                </div>
+            </li>
+                        <li>
+                <img src="//img.alicdn.com/imgextra/i2/3848299958/O1CN01sqlOah2NQoa1EwXPH_!!0-martrix_bbs.jpg">
+                <div class="txt_wrap">
+                    <a href="detail.html?postId=9292245">
+                        <h1>你的开学三大件</h1>
+                        <p>高校开学季即将到来，51岁的李佳兴冲冲准备给刚考上大学的儿子购置生活用品，但都被婉拒了：基本用品学校都配齐了，&ldquo;快递也很方便&rdquo;，没必要大包小包带很多东西。李佳很感慨，上世纪80年代初，他带着脸盆暖壶，提着沉重的行李，从海南乡下用了3天才抵达武汉的大学。他听叔父&mdash;&mdash;一位50年代的大学生说，当年上大学，他背着铺盖卷，拎着母亲手缝的布袋，里边就装着几件打补丁的衣服。天猫最新数据显示，除了手机、电脑和平板之外，2019年大学生的开学行囊里又增添了&ldquo;新三样&rdquo;：电子书、按摩仪、平衡车。从生活必需品到时尚消费品，新中国成立70年间，大学</p>
+                        <span>查看详细>></span>
+                        <div class="date_tag">2019-09-02 16:48</div>
+                    </a>
+                </div>
+            </li>
+                        <li>
+                <img src="//img.alicdn.com/imgextra/i4/3848299958/O1CN01vMxz862NQoZyPBRyC_!!2-martrix_bbs.png">
+                <div class="txt_wrap">
+                    <a href="detail.html?postId=9291785">
+                        <h1>95公益周全面开启 淘宝天猫双双发布战略级公益互动产品</h1>
+                        <p>日前，第三届阿里巴巴95公益周正式启动，40多种创新方式带动公众参与公益，其中，淘宝和天猫客户端战略级公益互动产品&ldquo;淘小学&rdquo;和&ldquo;童话镇&rdquo;双双上线。　　据悉，两大公益互动产品均指向乡村儿童发展。　　通过手机淘宝的&ldquo;淘小学&rdquo;，用户可以通过购买公益宝贝、公益捐赠、打卡领取福包等多种方式积累&ldquo;爱星&rdquo;公益能量，达到一定数值后，就可以为乡村学校捐赠真实的图书。在天猫客户端，用户可以通过天猫童话镇参与互动游戏，支持免费午餐、净水计划、童伴妈妈等多个项目，帮助乡村儿童成长与发展。　　据介绍，两款公益互动产品都将长期</p>
+                        <span>查看详细>></span>
+                        <div class="date_tag">2019-09-02 16:45</div>
+                    </a>
+                </div>
+            </li>
+                        <li>
+                <img src="//img.alicdn.com/imgextra/i4/3848299958/O1CN01DdKOkc2NQoZp4mhBz_!!0-martrix_bbs.jpg">
+                <div class="txt_wrap">
+                    <a href="detail.html?postId=9280354">
+                        <h1>江苏兴化大闸蟹借力电商抢鲜启动全国第一捞</h1>
+                        <p>21日，江苏兴化大闸蟹借力电商&ldquo;抢鲜&rdquo;开捕。作为中国&ldquo;河蟹养殖大市、全国较早开湖的大闸蟹产地，兴化大闸蟹季的启动也宣告着2019年全国吃蟹季正式到来。蟹塘旁临时搭建的直播棚里，兴化市市长方捷现场直播为本地大闸蟹&ldquo;代言&rdquo;。兴化域内河道纵横交织，湖荡内水草丰美，为优质淡水螃蟹的生长提供了得天独厚的条件。所产大闸蟹，具有&ldquo;青壳、白肚、金爪、黄毛、博螯、捷足&rdquo;的特点，脂膏丰满纯正、肉质玉白爽嫩、蟹黄晶红油润、入口鲜香溢甜，品质上乘。相比传统销售方式，近年来，兴化蟹农依托电商平台的辐射能量，打响农产品地理标识品牌，让更多</p>
+                        <span>查看详细>></span>
+                        <div class="date_tag">2019-08-22 16:25</div>
+                    </a>
+                </div>
+            </li>
+                        <li>
+                <img src="//img.alicdn.com/imgextra/i4/3848299958/O1CN01nDYMvZ2NQoZt1iOFQ_!!0-martrix_bbs.jpg">
+                <div class="txt_wrap">
+                    <a href="detail.html?postId=9279796">
+                        <h1>全国一线市场400多位老板娘入淘做主播</h1>
+                        <p>走进杭州的四季青服装市场，夏天市场里来拿货的人并不多，显得有些冷清。而另一边，档口老板娘们在自己的淘宝直播间迎来了比线下多出数十倍的客流，一款双面呢大衣一分钟就卖出了400多件。七八月份向来是线下市场的销售淡季，如今却在直播间里迎来了全年无休的旺季。    去年12月开始，一批线下市场老板娘、档口小妹在淘宝直播的孵化下，转型做主播。&ldquo;她们做主播有天生的优势，表达能力好、了解服装生意又不缺货源。&rdquo;淘宝直播相关负责人介绍，目前老板娘主播的数量已经超过430位，遍及全国120多个市场。其中常熟、广州、杭州、海宁、义乌、深圳等地的老板娘主播格外活跃。而韩国、尼泊尔、斯里兰卡等国</p>
+                        <span>查看详细>></span>
+                        <div class="date_tag">2019-08-22 16:23</div>
+                    </a>
+                </div>
+            </li>
+                        <li>
+                <img src="//img.alicdn.com/imgextra/i4/3848299958/O1CN01MdXM2a2NQoZkucVC1_!!1-martrix_bbs.gif">
+                <div class="txt_wrap">
+                    <a href="detail.html?postId=9276073">
+                        <h1>闲鱼联合菜鸟驿站在深启动线下旧衣回收计划，计划覆盖全国大中城市社区</h1>
+                        <p>近日，闲鱼联合菜鸟驿站在深圳百余社区展开旧衣回收服务，社区居民只要将旧衣服送到附近有闲鱼旧衣回收服务的菜鸟驿站，就能领取最高500元的天猫超市优惠券，回收的旧衣会被统一打包发往分拣仓库进行环保处理。闲鱼旧衣回收业务负责人胡晓波表示：&ldquo;闲鱼的旧衣回收业务一直承担着普及环保意识的任务。除了闲鱼线上平台，我们一直在拓展传达环保理念的线下场景，这一次和菜鸟驿站合作是我们深入线下社区、普及旧衣处理环保意识的重要一站，目前我们已经开拓了深圳、武汉两地，计划陆续覆盖到全国大中城市，更大程度地推动社区资源循环利用。同时我们的多元推广还在继续，今年我们和H&amp;M、茵曼等服装品牌进行线下线上联动</p>
+                        <span>查看详细>></span>
+                        <div class="date_tag">2019-08-19 20:18</div>
+                    </a>
+                </div>
+            </li>
+                        <li>
+                <img src="//img.alicdn.com/imgextra/i2/3848299958/O1CN01co9qVJ2NQoZjy5snT_!!0-martrix_bbs.jpg">
+                <div class="txt_wrap">
+                    <a href="detail.html?postId=9276530">
+                        <h1>聚划算效应全面爆发，天天都是品牌双11</h1>
+                        <p>8月19日，阿里巴巴聚划算宣布，将99大促正式升级为&ldquo;99划算节&rdquo;，成为阿里系又一最高标准的购物狂欢节。今年以来全面&ldquo;复兴&rdquo;的聚划算，将再度为品牌创造巨大的增长机会。　　聚划算升格&ldquo;99&rdquo;的底气，源于今年以来聚划算在下沉市场上取得的成功。阿里巴巴大聚划算事业部总经理刘博（花名家洛）在99划算节的发布会上透露，今年以来，不同定位、不同发展阶段的品牌都在聚划算上收获了超预期的增长。&ldquo;聚划算效应&rdquo;帮助品牌和产业带商家，实现了销售上的爆发。数据显示，自今年一月到八月第一周，在服装服饰、消费电子、大快消等主流</p>
+                        <span>查看详细>></span>
+                        <div class="date_tag">2019-08-19 20:16</div>
+                    </a>
+                </div>
+            </li>
+                        <li>
+                <img src="//img.alicdn.com/imgextra/i2/3848299958/O1CN012EddkC2NQoZgf2ebj_!!0-martrix_bbs.jpg">
+                <div class="txt_wrap">
+                    <a href="detail.html?postId=9272538">
+                        <h1>速卖通联手韩国版谷歌卖货，首次大促在韩国卖疯</h1>
+                        <p>阿里巴巴旗下的全球跨境电商平台速卖通（AliExpress.com）近日和韩国最大的搜索引擎，号称&ldquo;国民级网站&rdquo;的Naver达成了合作。韩国消费者可直接通过Naver购物搜索到全球速卖通商品。用户在点击商品链接后将直接跳转至全球速卖通网站进行后续购买操作。 这还是Naver首次与海外购物网站进行合作。此举引发了韩国媒体热烈的关注，三大韩国通讯社都对此次合作进行了详细报道，称速卖通以质优价廉、大部分商品免运费的优势在韩国吸引了不少的用户。速卖通和韩国最大搜索引擎达成合作协议后，韩国主流媒体进行了广泛的关注 在达成合作后的首次开门大促活动（8月5-7日）中，速卖通一举激活了</p>
+                        <span>查看详细>></span>
+                        <div class="date_tag">2019-08-14 16:27</div>
+                    </a>
+                </div>
+            </li>
+                        <li>
+                <img src="//img.alicdn.com/imgextra/i2/3848299958/O1CN01IEXwHW2NQoZgeppaI_!!2-martrix_bbs.png">
+                <div class="txt_wrap">
+                    <a href="detail.html?postId=9272624">
+                        <h1>阿里巴巴的过去一年：创造就业4082万</h1>
+                        <p>今天，2019年中国互联网企业100强榜单发布，阿里巴巴蝉联榜首。排名前五名的企业依次为：阿里巴巴、腾讯、百度、京东、蚂蚁金服。这一榜单由中国互联网协会、工信部网络安全产业发展中心联合发布。对企业的衡量，同时包括了企业经营的合规性和社会效益。长期以来，阿里巴巴平台为商家、用户创造价值，其形成的带动效应惠及诸多国内企业。　　今年天猫618期间，仅天天特卖平台便给产业带商家带来4.66亿笔订单，上百新品牌脱颖而出。　　阿里平台不仅帮助产生商业价值，还会产生明显的社会价值。据此前数据披露，阿里巴巴集团和蚂蚁金服集团2018年总计向国家纳税516亿元，平台创造的新消费增量带动上下游产业纳税超过2500</p>
+                        <span>查看详细>></span>
+                        <div class="date_tag">2019-08-14 16:23</div>
+                    </a>
+                </div>
+            </li>
+                        <li>
+                <img src="//img.alicdn.com/imgextra/i2/3848299958/O1CN01fzN2VO2NQoZkHuMaf_!!2-martrix_bbs.png">
+                <div class="txt_wrap">
+                    <a href="detail.html?postId=9270651">
+                        <h1>微淘汇聚超百万内容创作者，要把种草进行到底</h1>
+                        <p>没时间出门逛街怎么办?越来越多的人通过手淘上的&ldquo;种草神器&rdquo;微淘来满足自己的购物欲。数据显示，工作日的上午11点到下午13点，以及晚上的21点到23点成为了微淘的浏览高峰。上班族们在午休和睡前只要动动手刷微淘，就能看到自己关注的店铺都上了哪些新款，顺便种个草、剁个手。而像上周末由于台风无法出门，在家刷微淘同样成为了替代逛街的首选。买东西前先看看美妆博主的试色、穿搭博主推荐的最新款夏装&hellip;这样的&ldquo;种草型&rdquo;购物已经是不少人的习惯。目前微淘最新的内容类型包括了上新、种草、视频、买家秀、直播等，时尚穿搭、美妆护肤、美食体验、家居搭配等内容都颇受</p>
+                        <span>查看详细>></span>
+                        <div class="date_tag">2019-08-12 17:45</div>
+                    </a>
+                </div>
+            </li>
+                        <li>
+                <img src="//img.alicdn.com/imgextra/i4/3848299958/O1CN015u9eL12NQoZjqDOaz_!!2-martrix_bbs.png">
+                <div class="txt_wrap">
+                    <a href="detail.html?postId=9271048">
+                        <h1>六阿哥驾到！故宫文具8月进驻天猫</h1>
+                        <p>故宫又要进驻天猫了！这次来的是&ldquo;六阿哥&rdquo;　　8月12日，天猫、人民日报和故宫联合宣布：为了给即将开学的孩子们一份礼物，故宫文具将在8月下旬上线天猫。　　这是故宫开在天猫淘宝的第6家店，网友们笑称：这是&ldquo;六阿哥&rdquo;来了。此前，故宫淘宝、故宫文创、故宫出版、故宫食品、上新了故宫5位&ldquo;阿哥&rdquo;均已进驻天猫淘宝。　　明年就600岁的故宫，近年来成为网友们心中的网红。它的试水文创之路，就是与阿里合作开始的。2008年12月，故宫入驻淘宝，成为国内第一家开淘宝店的博物院。&ldquo;奉旨旅行&rdquo;行李牌、&ldquo;朕就是这样</p>
+                        <span>查看详细>></span>
+                        <div class="date_tag">2019-08-12 17:44</div>
+                    </a>
+                </div>
+            </li>
+                        <li>
+                <img src="//img.alicdn.com/imgextra/i4/3848299958/O1CN01zQpA5T2NQoZed8ttG_!!2-martrix_bbs.png">
+                <div class="txt_wrap">
+                    <a href="detail.html?postId=9268527">
+                        <h1>天猫上线轻松换  2088元就能买部全新iPhone XR</h1>
+                        <p>很多人都有这样一个体验，宁愿把不用的手机扔进抽屉，也不愿以旧换新，一大原因是，在现有的以旧换新流程中，需要先卖出旧手机，再买新手机，这就造成无手机可用的&ldquo;失联期&rdquo;，对于年轻人来说这简直是&ldquo;反人类&rdquo;的操作。8月8日，天猫推出&ldquo;轻松换&rdquo;，带来全新的以旧换新体验。消费者在天猫&ldquo;轻松换数码旗舰店&rdquo;就可以一站式完成手机以旧换新，无需像过去那样要&ldquo;先卖旧机，再买新机&rdquo;。消费者可以先拿到新机，导完照片、通讯录等资料后，两周内再把旧机寄走。不仅如此，&ldquo;轻松换&ldquo;还能给用</p>
+                        <span>查看详细>></span>
+                        <div class="date_tag">2019-08-08 22:56</div>
+                    </a>
+                </div>
+            </li>
+                        <li>
+                <img src="//img.alicdn.com/imgextra/i2/3848299958/O1CN01uT1T1p2NQoZeczEUp_!!2-martrix_bbs.png">
+                <div class="txt_wrap">
+                    <a href="detail.html?postId=9268706">
+                        <h1>阿里88VIP权益再升级 飞猪加入阿里生活圈添新场景</h1>
+                        <p>8月8日，阿里巴巴集团宣布阿里88VIP会员权益将进一步升级，这将为阿里生态和阿里平台上的商家带来更多新增长和新机会，也将为消费者节省更多开支。　　根据数据估测，过去一年88VIP为每个消费者平均节省1230元，累计为全国消费者节省数十亿元。在省钱榜单中，一位江苏无锡用户夺魁，一年通过阿里 88VIP 节省 5688.75 元。而上海人最会省，通过88VIP 省下5.11 亿元，浙江、江苏、广东、北京紧随其后。　　2018年8月8日，阿里巴巴集团揭晓了88VIP全员会员计划。这个纵横于阿里生态，把多重会员身份融为一体的&ldquo;一卡通&rdquo; 既涵盖了阿里巴巴旗下所有核心服务，也联合</p>
+                        <span>查看详细>></span>
+                        <div class="date_tag">2019-08-08 22:52</div>
+                    </a>
+                </div>
+            </li>
+                    </ul>
+        <div class="rain-page">
+                        <script>pager("/list.html?page={0}&size=15&topicId=12401", 0, 1539, 15)</script>
+                    </div>
+    </div>
+
+    <div id="global_sidebar">
+            <div class="hot_article">
+                <h1>热门文章</h1>
+                <a class="more" href="/list.html?topicId=12401">更多</a>
+                <p class="one_line">&nbsp;</p>
+                <ul>
+                                                        </ul>
+            </div>
+
+            <div class="hot_media">
+                <h1>媒体店铺</h1>
+                <p class="one_line">&nbsp;</p>
+                <ul>
+                    <li> <a href="http://shop106093814.taobao.com/"><img src="https://img.alicdn.com/imgextra/i3/2143255924/TB2DAbwcVXXXXaPXXXXXXXXXXXX_!!2143255924-0-martrix_bbs.jpg"></a> </li>  <li> <a href="http://shop116696790.taobao.com/"><img src="https://img.alicdn.com/imgextra/i1/2143255924/TB2b6LqcVXXXXcwXXXXXXXXXXXX_!!2143255924-0-martrix_bbs.jpg"></a> </li>  <li> <a href="http://shop110657108.taobao.com/"><img src="https://img.alicdn.com/imgextra/i4/2143255924/TB2Gn6BcVXXXXXnXXXXXXXXXXXX_!!2143255924-0-martrix_bbs.jpg"></a> </li>
+                </ul>
+            </div>
+        </div>
+</div>
+
+<script>KISSY.use('blackboard/p/newslist/');</script>
+<script>KISSY.use('blackboard/p/common/',function(S,Common){
+    var videoId = document.getElementById('videoId').getAttribute('data-video');
+    Common.init(videoId);
+});</script>
+<style>
+  .footer_2014{
+    width: 1190px;
+    margin: 0 auto;
+  }
+  .w990 .footer_2014{
+    width: 990px;
+  }
+
+</style>
+<div class="footer_2014">
+<style>
+.footer{position:relative;margin:0 auto;padding:7px 0 9px;border-top:1px solid #ddd}.footer .footer-bd p,.footer .footer-hd p{padding-bottom:8px;overflow:hidden;*zoom:1}.footer .footer-bd a,.footer .footer-hd a{display:inline;float:left;margin:0 4px;white-space:nowrap;color:#6c6c6c}.footer .footer-bd a:hover,.footer .footer-hd a:hover{color:#f40;text-decoration:none}.footer .footer-bd b,.footer .footer-hd b{display:inline;float:left;margin:0 3px;font-weight:400;color:#ddd}.footer .footer-bd em,.footer .footer-bd span,.footer .footer-hd em,.footer .footer-hd span{display:inline;float:left;white-space:nowrap;color:#9c9c9c}.footer .footer-bd em,.footer .footer-hd em{margin-left:30px}.footer .footer-bd span,.footer .footer-hd span{margin:0 4px}.footer .footer-bd span a,.footer .footer-hd span a{float:none}.footer .footer-hd p{margin-bottom:8px;line-height:27px;border-bottom:1px solid #ddd}.footer .foot-ft{display:none}
+</style><div class="footer" data-spm="1997523009">
+  <div class="footer-hd">
+    <p>
+      <a href="http://www.alibabagroup.com/cn/global/home">阿里巴巴集团</a>
+      <b>|</b>
+      <a href="//www.taobao.com">淘宝网</a>
+      <b>|</b>
+      <a href="//www.tmall.com">天猫</a>
+      <b>|</b>
+      <a href="//ju.taobao.com">聚划算</a>
+      <b>|</b>
+      <a href="http://www.aliexpress.com">全球速卖通</a>
+      <b>|</b>
+      <a href="http://www.alibaba.com/">阿里巴巴国际交易市场</a>
+      <b>|</b>
+      <a href="http://www.1688.com">1688</a>
+      <b>|</b>
+      <a href="http://www.alimama.com">阿里妈妈</a>
+      <b>|</b>
+      <a href="//www.alitrip.com">阿里旅行 · 去啊</a>
+      <b>|</b>
+      <a href="http://www.aliyun.com">阿里云计算</a>
+      <b>|</b>
+      <a href="http://www.yunos.com">YunOS</a>
+      <b>|</b>
+      <a href="http://www.aliqin.cn/">阿里通信</a>
+      <b>|</b>
+      <a href="http://www.etao.com/">一淘</a>
+      <b>|</b>
+      <a href="http://www.net.cn">万网</a>
+      <b>|</b>
+      <a href="http://www.autonavi.com/">高德</a>
+      <b>|</b>
+      <a href="http://www.uc.cn/">UC</a>
+      <b>|</b>
+      <a href="http://www.umeng.com/">友盟</a>
+      <br>
+      <a href="http://www.xiami.com">虾米</a>
+      <b>|</b>
+      <a href="http://www.ttpod.com/">天天动听</a>
+      <b>|</b>
+      <a href="http://www.laiwang.com/">来往</a>
+      <b>|</b>
+      <a href="http://www.dingtalk.com/?lwfrom=20150130160830727">钉钉</a>
+      <b>|</b>
+      <a href="https://www.alipay.com">支付宝</a>
+    </p>
+  </div>
+  <div class="footer-bd">
+    <p>
+      <a href="//www.taobao.com/about">关于淘宝</a>
+      <a href="//www.taobao.com/about/partners.php">合作伙伴</a>
+      <a href="//pro.taobao.com">营销中心</a>
+      <a href="http://jubao.alibaba.com" >廉正举报</a>
+      <a href="//service.taobao.com/support/main/service_route.htm">联系客服</a>
+      <a href="//open.taobao.com">开放平台</a>
+      <a href="//www.taobao.com/about/join.php">诚征英才</a>
+      <a href="//www.taobao.com/about/contact.php">联系我们</a>
+      <a href="//www.taobao.com/sitemap.php">网站地图</a>
+      <a href="//www.taobao.com/go/chn/tb-fp/2014/law.php">法律声明</a>
+      <em>&copy; 2003-2016 Taobao.com 版权所有</em>
+    </p>
+    <p>
+      <span>网络文化经营许可证：<a href="//img.alicdn.com/tps/i2/TB1YFcPLpXXXXaiXFXXcaDpFFXX-803-473.png">浙网文[2013]0268-027号</a></span>
+      <b>|</b>
+      <span data-spm-protocol="i">增值电信业务经营许可证：<a href="http://zcainfo.miitbeian.gov.cn/state/outPortal/loginPortal.action">浙B2-20080224-1</a></span>
+      <b>|</b>
+      <span>信息网络传播视听节目许可证：1109364号</span>
+      <b>|</b>
+      <span> 互联网违法和不良信息举报电话:0571-81683755 blxx@list.alibaba-inc.com </span>
+    </p>
+  </div>
+  <div class="footer-ft">
+    
+            <a href="http://www.pingpinganan.gov.cn/" class="mod " >
+                <img width="36" alt="杭州网警" height="36" src="//img.alicdn.com/tps/i1/T1FeW3XXNfXXXXXXXX-36-36.gif">
+              </a>
+            <a href="http://idinfo.zjaic.gov.cn/bscx.do?spm=1.7274553.1997523009.28.alN7ce&method=hddoc&id=33018400000067" class="mod mod-a" >
+              </a>
+            <a href="http://idinfo.zjaic.gov.cn/bscx.do?spm=1.7274553.1997523009.29.alN7ce&method=hddoc&id=33018400000067" class="mod mod-b" >
+              </a>
+            <a href="http://www.theclimategroup.org.cn/about/friend?spm=1.7274553.1997523009.30.alN7ce" class="mod mod-c" >
+              </a>
+            <a href="https://ss.knet.cn/verifyseal.dll?spm=1.7274553.1997523009.31.alN7ce&&sn=2010062300100001357&pa=20100701" class="mod mod-d" >
+              </a>
+            <a href="http://www.ppaaol.com/verifySite.do?spm=1.7274553.1997523009.32.alN7ce&id=1051" class="mod mod-e" >
+              </a>
+            <a href="http://www.12377.cn/" class="mod mod-f" >
+              </a>
+            <a href="http://www.12377.cn/node_548446.htm" class="mod mod-h" >
+              </a>
+            <a href="http://sq.ccm.gov.cn/ccnt/sczr/service/business/emark/toDetail/2E7819FC84674D5980464916C24B7E3E" class="mod mod-g" >
+              </a>
+          
+  </div>
+</div></div>
+</body>
+</html>

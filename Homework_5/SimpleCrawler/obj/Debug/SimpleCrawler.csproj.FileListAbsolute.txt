@@ -1,0 +1,14 @@
+E:\学科学习资料\大三\大三上\.net架构程序设计\Homework_5\SimpleCrawler\bin\Debug\SimpleCrawler.exe.config
+E:\学科学习资料\大三\大三上\.net架构程序设计\Homework_5\SimpleCrawler\bin\Debug\SimpleCrawler.exe
+E:\学科学习资料\大三\大三上\.net架构程序设计\Homework_5\SimpleCrawler\bin\Debug\SimpleCrawler.pdb
+E:\学科学习资料\大三\大三上\.net架构程序设计\Homework_5\SimpleCrawler\obj\Debug\SimpleCrawler.csprojAssemblyReference.cache
+E:\学科学习资料\大三\大三上\.net架构程序设计\Homework_5\SimpleCrawler\obj\Debug\SimpleCrawler.csproj.CoreCompileInputs.cache
+E:\学科学习资料\大三\大三上\.net架构程序设计\Homework_5\SimpleCrawler\obj\Debug\SimpleCrawler.exe
+E:\学科学习资料\大三\大三上\.net架构程序设计\Homework_5\SimpleCrawler\obj\Debug\SimpleCrawler.pdb
+C:\Users\pc\Desktop\Homework_5\SimpleCrawler\bin\Debug\SimpleCrawler.exe.config
+C:\Users\pc\Desktop\Homework_5\SimpleCrawler\bin\Debug\SimpleCrawler.exe
+C:\Users\pc\Desktop\Homework_5\SimpleCrawler\bin\Debug\SimpleCrawler.pdb
+C:\Users\pc\Desktop\Homework_5\SimpleCrawler\obj\Debug\SimpleCrawler.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\Homework_5\SimpleCrawler\obj\Debug\SimpleCrawler.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Homework_5\SimpleCrawler\obj\Debug\SimpleCrawler.exe
+C:\Users\pc\Desktop\Homework_5\SimpleCrawler\obj\Debug\SimpleCrawler.pdb

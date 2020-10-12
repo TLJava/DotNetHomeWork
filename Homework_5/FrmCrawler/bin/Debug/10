@@ -1,0 +1,229 @@
+﻿
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>阿里小黑板 新闻详情</title>
+    <meta name="data-spm" content="a210m">
+    <!-- S GLOBAL CSS -->
+<link rel="stylesheet" href="//g.alicdn.com/tb/global/3.5.34/global-min.css">
+<!-- S GLOBAL CSS -->
+    <!-- S GLOBAL JS -->
+<script src="//g.alicdn.com/??kissy/k/1.4.7/seed-min.js,tb/global/3.5.34/global-min.js"></script>
+<!-- E GLOBAL JS -->
+    <link rel="shortcut icon" href="//gtms03.alicdn.com/tps/i3/TB13bWkGXXXXXcHXXXXjznUFXXX-16-16.ico" type="image/x-icon" />
+    <script src="//g.alicdn.com/kissy/k/1.4.7/import-style-min.js"></script>
+    <script src="//g.alicdn.com/??tb/blackboard/0.0.5/deps.js"></script>
+    <script src="//g.alicdn.com/??tb/blackboard/0.0.5/config.js"></script>
+    <script>rain = {};rain.tag = "20141204";rain.appId=5301;</script>
+    <link rel="stylesheet" href="//g.alicdn.com/tb/rainbow/bbs3/css/bbs.css" />
+    <script src="//g.alicdn.com/tb/rainbow/bbs3/js/global-min.js"></script>
+    <script>
+        XCake.config({
+            name: 'blackboard',
+            base: '//g.alicdn.com/tb/blackboard/0.0.5/',
+            combine: false
+        });
+    </script>
+    <script>KISSY.use('blackboard/p/detail/');</script>
+    <script>KISSY.importStyle('blackboard/p/detail/');</script>
+</head>
+<body data-spm="7696189"><script>
+with(document)with(body)with(insertBefore(createElement("script"),firstChild))setAttribute("exparams","category=&userid=&aplus&yunid=&&trid=0b521d4f16024019339396163e06e6&asid=AQAAAACNtoJftRyMbgAAAAApDw7Dym3tbQ==",id="tb-beacon-aplus",src=(location>"https"?"//g":"//g")+".alicdn.com/alilog/mlog/aplus_v2.js")
+</script>
+
+<!-- S GLOBAL HTML -->
+<div id="J_SiteNav" class="site-nav">
+  <div id="J_SiteNavBd" class="site-nav-bd">
+    <ul id="J_SiteNavBdL" class="site-nav-bd-l"></ul>
+    <ul id="J_SiteNavBdR" class="site-nav-bd-r"></ul>
+  </div>
+</div>
+<!-- -->
+<!-- 全网顶通 -->
+<!-- E GLOBAL HTML   -->
+<script>TB.Global.init();</script>
+<div class="container">
+    <div id="home_nav">
+        <div class="logo"></div>
+        <div class="nav">
+            <ul>
+                <li><a href="/">首页</a></li>|
+                <li><a class="active" href="/list.html?topicId=12401&order=1&size=15">新闻</a></li>|
+                <li><a href="http://www.alibabagroup.com/cn/news/library">资料馆</a></li>
+                            </ul>
+        </div>
+    </div>
+    <input id="J_token" type="hidden" name="_tb_token_" init="detail,post" itemId="9280354" value="beba3e55b353" />
+        <div class="detail-container">
+                <div id="main_news">
+            <h1>江苏兴化大闸蟹借力电商抢鲜启动全国第一捞</h1>
+            <p class="small_tag"><span>来源：</span>
+            <a href="http://xhpfmapi.zhongguowangshi.com/vh512/share/6403696?channel=weixin&amp;from=singlemessage&amp;isappinstalled=0" target="_blank">新华社 &nbsp;</a>
+            &nbsp;&nbsp;&nbsp;2019-08-22 16:25 &nbsp;&nbsp;&nbsp;&nbsp; <span class="J_Share" style="color:#F22E00;cursor: pointer;">分享</span></p>
+                        <div  class="img_wrap" style="text-align: center;">
+                <img src="//img.alicdn.com/imgextra/i4/3848299958/O1CN01DdKOkc2NQoZp4mhBz_!!0-martrix_bbs.jpg">
+                                            </div>
+            
+            <div class="text_wrap">
+                <p>21日，江苏兴化大闸蟹借力电商“抢鲜”开捕。作为中国“河蟹养殖大市、全国较早开湖的大闸蟹产地，兴化大闸蟹季的启动也宣告着2019年全国吃蟹季正式到来。</p><p><br data-mce-bogus="1"></p><p>蟹塘旁临时搭建的直播棚里，兴化市市长方捷现场直播为本地大闸蟹“代言”。</p><p><br></p><p>兴化域内河道纵横交织，湖荡内水草丰美，为优质淡水螃蟹的生长提供了得天独厚的条件。所产大闸蟹，具有“青壳、白肚、金爪、黄毛、博螯、捷足”的特点，脂膏丰满纯正、肉质玉白爽嫩、蟹黄晶红油润、入口鲜香溢甜，品质上乘。</p><p><br data-mce-bogus="1"></p><p>相比传统销售方式，近年来，兴化蟹农依托电商平台的辐射能量，打响农产品地理标识品牌，让更多的蟹农借助网络的力量，将兴化大闸蟹销往全国各地。</p><p><br></p><p>今年，兴化市农业部门携手阿里巴巴聚划算平台，建立惠及蟹农的网络销售通道。据阿里巴巴方面测算，未来三天，预计将有300万只大闸蟹被“抢购一空”，相当于兴化市四千亩水域的捕捞量。</p>            </div>
+            <div class="art_tag">
+                            </div>
+        </div>
+        
+
+                                                                
+                                                                                                                                                                                                                
+    </div>
+    <div id="global_sidebar">
+            <div class="hot_article">
+                <h1>热门文章</h1>
+                <a class="more" href="/list.html?topicId=12401">更多</a>
+                <p class="one_line">&nbsp;</p>
+                <ul>
+                                                        </ul>
+            </div>
+
+            <div class="hot_media">
+                <h1>媒体店铺</h1>
+                <p class="one_line">&nbsp;</p>
+                <ul>
+                    <li> <a href="http://shop106093814.taobao.com/"><img src="https://img.alicdn.com/imgextra/i3/2143255924/TB2DAbwcVXXXXaPXXXXXXXXXXXX_!!2143255924-0-martrix_bbs.jpg"></a> </li>  <li> <a href="http://shop116696790.taobao.com/"><img src="https://img.alicdn.com/imgextra/i1/2143255924/TB2b6LqcVXXXXcwXXXXXXXXXXXX_!!2143255924-0-martrix_bbs.jpg"></a> </li>  <li> <a href="http://shop110657108.taobao.com/"><img src="https://img.alicdn.com/imgextra/i4/2143255924/TB2Gn6BcVXXXXXnXXXXXXXXXXXX_!!2143255924-0-martrix_bbs.jpg"></a> </li>
+                </ul>
+            </div>
+        </div>
+</div>
+
+<script>KISSY.use('blackboard/p/common/, dom, event, blackboard/p/detail/',function(S,Common, DOM, Event){
+
+
+    Event.on('.J_Share', 'click', function(e) {
+        e.preventDefault();
+        S.use('tbc/share/1.0.0/', function(S, Share) {
+            Share.init({
+                type : 'webpage',
+                key : 'http://press.taobao.com',
+                client_id : '182320'
+            });
+        });
+    });
+});
+
+
+</script>
+<style>
+  .footer_2014{
+    width: 1190px;
+    margin: 0 auto;
+  }
+  .w990 .footer_2014{
+    width: 990px;
+  }
+
+</style>
+<div class="footer_2014">
+<style>
+.footer{position:relative;margin:0 auto;padding:7px 0 9px;border-top:1px solid #ddd}.footer .footer-bd p,.footer .footer-hd p{padding-bottom:8px;overflow:hidden;*zoom:1}.footer .footer-bd a,.footer .footer-hd a{display:inline;float:left;margin:0 4px;white-space:nowrap;color:#6c6c6c}.footer .footer-bd a:hover,.footer .footer-hd a:hover{color:#f40;text-decoration:none}.footer .footer-bd b,.footer .footer-hd b{display:inline;float:left;margin:0 3px;font-weight:400;color:#ddd}.footer .footer-bd em,.footer .footer-bd span,.footer .footer-hd em,.footer .footer-hd span{display:inline;float:left;white-space:nowrap;color:#9c9c9c}.footer .footer-bd em,.footer .footer-hd em{margin-left:30px}.footer .footer-bd span,.footer .footer-hd span{margin:0 4px}.footer .footer-bd span a,.footer .footer-hd span a{float:none}.footer .footer-hd p{margin-bottom:8px;line-height:27px;border-bottom:1px solid #ddd}.footer .foot-ft{display:none}
+</style><div class="footer" data-spm="1997523009">
+  <div class="footer-hd">
+    <p>
+      <a href="http://www.alibabagroup.com/cn/global/home">阿里巴巴集团</a>
+      <b>|</b>
+      <a href="//www.taobao.com">淘宝网</a>
+      <b>|</b>
+      <a href="//www.tmall.com">天猫</a>
+      <b>|</b>
+      <a href="//ju.taobao.com">聚划算</a>
+      <b>|</b>
+      <a href="http://www.aliexpress.com">全球速卖通</a>
+      <b>|</b>
+      <a href="http://www.alibaba.com/">阿里巴巴国际交易市场</a>
+      <b>|</b>
+      <a href="http://www.1688.com">1688</a>
+      <b>|</b>
+      <a href="http://www.alimama.com">阿里妈妈</a>
+      <b>|</b>
+      <a href="//www.alitrip.com">阿里旅行 · 去啊</a>
+      <b>|</b>
+      <a href="http://www.aliyun.com">阿里云计算</a>
+      <b>|</b>
+      <a href="http://www.yunos.com">YunOS</a>
+      <b>|</b>
+      <a href="http://www.aliqin.cn/">阿里通信</a>
+      <b>|</b>
+      <a href="http://www.etao.com/">一淘</a>
+      <b>|</b>
+      <a href="http://www.net.cn">万网</a>
+      <b>|</b>
+      <a href="http://www.autonavi.com/">高德</a>
+      <b>|</b>
+      <a href="http://www.uc.cn/">UC</a>
+      <b>|</b>
+      <a href="http://www.umeng.com/">友盟</a>
+      <br>
+      <a href="http://www.xiami.com">虾米</a>
+      <b>|</b>
+      <a href="http://www.ttpod.com/">天天动听</a>
+      <b>|</b>
+      <a href="http://www.laiwang.com/">来往</a>
+      <b>|</b>
+      <a href="http://www.dingtalk.com/?lwfrom=20150130160830727">钉钉</a>
+      <b>|</b>
+      <a href="https://www.alipay.com">支付宝</a>
+    </p>
+  </div>
+  <div class="footer-bd">
+    <p>
+      <a href="//www.taobao.com/about">关于淘宝</a>
+      <a href="//www.taobao.com/about/partners.php">合作伙伴</a>
+      <a href="//pro.taobao.com">营销中心</a>
+      <a href="http://jubao.alibaba.com" >廉正举报</a>
+      <a href="//service.taobao.com/support/main/service_route.htm">联系客服</a>
+      <a href="//open.taobao.com">开放平台</a>
+      <a href="//www.taobao.com/about/join.php">诚征英才</a>
+      <a href="//www.taobao.com/about/contact.php">联系我们</a>
+      <a href="//www.taobao.com/sitemap.php">网站地图</a>
+      <a href="//www.taobao.com/go/chn/tb-fp/2014/law.php">法律声明</a>
+      <em>&copy; 2003-2016 Taobao.com 版权所有</em>
+    </p>
+    <p>
+      <span>网络文化经营许可证：<a href="//img.alicdn.com/tps/i2/TB1YFcPLpXXXXaiXFXXcaDpFFXX-803-473.png">浙网文[2013]0268-027号</a></span>
+      <b>|</b>
+      <span data-spm-protocol="i">增值电信业务经营许可证：<a href="http://zcainfo.miitbeian.gov.cn/state/outPortal/loginPortal.action">浙B2-20080224-1</a></span>
+      <b>|</b>
+      <span>信息网络传播视听节目许可证：1109364号</span>
+      <b>|</b>
+      <span> 互联网违法和不良信息举报电话:0571-81683755 blxx@list.alibaba-inc.com </span>
+    </p>
+  </div>
+  <div class="footer-ft">
+    
+            <a href="http://www.pingpinganan.gov.cn/" class="mod " >
+                <img width="36" alt="杭州网警" height="36" src="//img.alicdn.com/tps/i1/T1FeW3XXNfXXXXXXXX-36-36.gif">
+              </a>
+            <a href="http://idinfo.zjaic.gov.cn/bscx.do?spm=1.7274553.1997523009.28.alN7ce&method=hddoc&id=33018400000067" class="mod mod-a" >
+              </a>
+            <a href="http://idinfo.zjaic.gov.cn/bscx.do?spm=1.7274553.1997523009.29.alN7ce&method=hddoc&id=33018400000067" class="mod mod-b" >
+              </a>
+            <a href="http://www.theclimategroup.org.cn/about/friend?spm=1.7274553.1997523009.30.alN7ce" class="mod mod-c" >
+              </a>
+            <a href="https://ss.knet.cn/verifyseal.dll?spm=1.7274553.1997523009.31.alN7ce&&sn=2010062300100001357&pa=20100701" class="mod mod-d" >
+              </a>
+            <a href="http://www.ppaaol.com/verifySite.do?spm=1.7274553.1997523009.32.alN7ce&id=1051" class="mod mod-e" >
+              </a>
+            <a href="http://www.12377.cn/" class="mod mod-f" >
+              </a>
+            <a href="http://www.12377.cn/node_548446.htm" class="mod mod-h" >
+              </a>
+            <a href="http://sq.ccm.gov.cn/ccnt/sczr/service/business/emark/toDetail/2E7819FC84674D5980464916C24B7E3E" class="mod mod-g" >
+              </a>
+          
+  </div>
+</div></div>
+<script src="//g.alicdn.com/mtb/videox/0.1.33/videox-pc.js"></script>
+<script src="//g.alicdn.com/kg/tbvideo-replace/0.0.21/index-min.js"></script>
+<script> window.embedReplace.replaceAll(); </script>
+</body>
+</html>
